@@ -1,0 +1,107 @@
+[
+  {
+    "firstPart": "A. Hurson, H. Sarbazi-Azad (Editors)",
+    "secondPart": "Power-efficient network-on-chips: design and evaluation",
+    "thirdPart": "in Advances in Computers, Vol. 124, Elsevier, 2022"
+  },
+  {
+    "firstPart": "P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Data prefetching techniques in computer systems",
+    "thirdPart": "Advances in Computers, Vol. 125, Elsevier, 2022, ISBN: 978-0-323-85119-0"
+  },
+  {
+    "firstPart": "A. Asadinia, H. Sarbazi-Azad",
+    "secondPart": "Durable phase-change memory architectures",
+    "thirdPart": "Advances in Computers, Elsevier, Vol. 118, 2020, ISBN: 978-0-12-818754-8"
+  },
+  {
+    "firstPart": "A. Hurson, H. Sarbazi-Azad (Editor)",
+    "secondPart": "Dark silicon and future on-chip systems",
+    "thirdPart": "Advances in Computers, Elsevier, Vol.110, 2018, ISBN: 978-0-128-15358-1"
+  },
+  {
+    "firstPart": "P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Dark silicon and the history of computing",
+    "thirdPart": "Chapter 1, Advances in Computers, Elsevier, Vol. 110, 2018, ISBN: 978-0-128-15358-1"
+  },
+  {
+    "firstPart": "M. Hoveida, F. Aghaliakbari, M. Jalili, R. Bashizadeh, M. Arjomand and H. Sarbazi-Azad",
+    "secondPart": "Revisiting processor allocation and application mapping in future CMPs in dark silicon era",
+    "thirdPart": "Chapter 2, Advances in Computers, Elsevier, Vol. 110, 2018, ISBN: 978-0-128-15358-1"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Topology specialization for networks-on-chip in the dark silicon era",
+    "thirdPart": "chapter 6, Advances in Computers, Elsevier, 2018, ISBN: 978-0-128-15358-1"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad (Editor)",
+    "secondPart": "Advances in GPU research and practice",
+    "thirdPart": "Elsevier Science, Morgan Kaufmann Publishing Co., 2017, ISBN: 978-0-128-03788-1"
+  },
+  {
+    "firstPart": "M.H. Samavatian, M. Arjomand, R. Bashizadeh, H. Sarbazi-Azad",
+    "secondPart": "Architecting the last-level cache for GPUs using STT-RAM nonvolatile memory",
+    "thirdPart": "Chapter 20, Advances in GPU research and practice, Elsevier & Morgan Kaufmann, 2017, ISBN: 978-0-12-803738-6"
+  },
+  {
+    "firstPart": "P. Zardoshti, F. Khunjush, H. Sarbazi-Azad",
+    "secondPart": "Adaptive sparse matrix representation for efficient matrix-vector multiplication",
+    "thirdPart": "Chapter 14, Advances in GPU research and practice, Elsevier & Morgan Kaufmann, 2017, ISBN: 978-0-12-803738-6"
+  },
+  {
+    "firstPart": "A. Hurson, H. Sarbazi-Azad (Editors)",
+    "secondPart": "Energy efficiency in data centers",
+    "thirdPart": "Advances in Computers, Vol. 100, Elsevier, 2016"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Zomaya (Editors)",
+    "secondPart": "Large-scale network-centric distributed systems",
+    "thirdPart": "Wiley Book Series on Parallel and Distributed Computing, Wiley Publishing Co., 2013, ISBN: 978-0-470-93688-7"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A reconfigurable on-chip interconnection network for large multicore systems",
+    "thirdPart": "Chapter 1, Large scale network centric distributed systems, Wiley Book Series on Parallel and Distributed Computing, 2013, ISBN: 978-0-470-93688-7"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Mobility effects in wireless mobile networks",
+    "thirdPart": " Chapter 8, Large scale network centric distributed systems, Wiley Book Series on Parallel and Distributed Computing, 2013, ISBN: 978-0-470-93688-7"
+  },
+  {
+    "firstPart": "R. Jabbarvand, Mehdi Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Fault-tolerant routing algorithms",
+    "thirdPart": "Chapter 4 in Networks on-Chip, Springer, 2013"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A High-Performance and Low-Power On-Chip Network with Reconfigurable Topology",
+    "thirdPart": " Chapter13, Dynamic Reconfigurable Network-on-Chip Design: Innovations for Computational Processing and Communication, IGI Global Publisher, 2010, ISBN: 978-1-61520-807-4"
+  },
+  {
+    "firstPart": "R. Sabbaghi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Shuffle-Exchange Mesh Topology for Networks-on-Chip",
+    "thirdPart": "Chapter 5, Parallel and Distributed Computing, IN-TECH Publishers, Austria, 2010, ISBN: 978-3-902613-45-5"
+  },
+  {
+    "firstPart": "R. Sabbaghi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A novel de Bruijn based mesh topology for Networks-on-Chip",
+    "thirdPart": "Chapter 16, VLSI Design, IN-TECH Publishers, Austria, 2010, ISBN 978-3-902613-50-9"
+  },
+  {
+    "firstPart": "H. Hashemi, H. Sarbazi-Azad",
+    "secondPart": "Performance modeling and evaluation of opto-electronic OTIS cubes",
+    "thirdPart": "Chapter 4, Performance Evaluation of Parallel, Distributed and Emergent Systems, Nova Science Publishers, 2006, ISBN: 1-59454-817-X, pp. 83-107"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "A performance model of true fully adaptive routing in hypercubes",
+    "thirdPart": "Chapter 16, High Performance Computing Systems and Applications, Kluwer Academic Publishers, 2003, ISBN: 1-4020-7389-5"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, et. al. (Editors)",
+    "secondPart": "Proceedings of International Conference on Parallel and Distributed Processing, Techniques and Applications (PDPTA)",
+    "thirdPart": "23-25 June 2001, Las Vegas, Nevada, U.S.A"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "firstPart": "H. Asadi, P. Ienne, H. Sarbazi-Azad",
+    "secondPart": "Architecture of future many core systems",
+    "thirdPart": "Elsevier's Microprocessors and Microsystems, Vol.46, pp.264-273, 2016"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, N. Bagherzadeh, M. Ebrahimi, M. Daneshtalab",
+    "secondPart": "On-chip parallel and network-based systems",
+    "thirdPart": "Editorial notes, Elsevier's Computers and Electrical Engineering, Vol. 51, No. 2, pp. 118-120, 2016"
+  },
+  {
+    "firstPart": "H. Asadi, P. Ienne, H. Sarbazi-Azad",
+    "secondPart": "Emerging memory technologies in very large scale computing and storage systems",
+    "thirdPart": "IEEE Transactions on Computers, Vol. 65, No. 4, pp. 1006-1009, 2016"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, N. Bagherzadeh, G. Jaberipour",
+    "secondPart": "Multicore architectures",
+    "thirdPart": "Editorial notes, Elsevier's Journal of Supercomputing, Vol. 71, No. 8, pp. 2783-2786, 2015"
+  },
+  {
+    "firstPart": "M. Daneshtalab, H. Sarbazi-Azad, N. Bagherzadeh",
+    "secondPart": "On-chip parallel and network-based systems",
+    "thirdPart": "Editorial notes, Integration: The VLSI Journal, Vol. 50, pp. 137-138, 2015"
+  },
+  {
+    "firstPart": "M. Daneshtalab, H. Sarbazi-Azad, N. Bagherzadeh",
+    "secondPart": "On-chip parallel and network-based systems",
+    "thirdPart": "Editorial notes, Computing, Vol. 97, No. 6, pp. 539-541, 2015"
+  },
+  {
+    "firstPart": "D. Göhringer, H. Sarbazi-Azad, R. Stotzka",
+    "secondPart": "Network-on-chips and memories for multicore architectures",
+    "thirdPart": "Editorial notes, Elsevier's Microprocessors and Microsystems, Vol. 38, No. 4, pp. 253-254, 2014"
+  },
+
+  {
+    "firstPart": "H. Sarbazi-Azad, N. Bagherzadeh",
+    "secondPart": "Multicore computing systems: architecture, programming tools, and applications",
+    "thirdPart": "Editorial notes, Journal of Computer and System Sciences, Vol. 79, No. 4, pp. 403-405, 2013"
+  },
+  {
+    "firstPart": "N. Bagherzadeh, H. Sarbazi-Azad",
+    "secondPart": "High-performance computer architecture and systems: design and performance",
+    "thirdPart": "Editorial notes, IET Computers and Digital Techniques, Vol. 6, No. 5, pp. 257-258, 2012"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, N. Bagherzadeh",
+    "secondPart": "On-chip parallel and network-based systems",
+    "thirdPart": "Editorial notes, Elsevier's Microprocessors and Microsystems, Vol. 36, No. 7, pp. 529-530, 2012"
+  },
+  {
+    "firstPart": "N. Bagherzadeh, H. Sarbazi-Azad",
+    "secondPart": "On-chip Parallel and Network-based Systems",
+    "thirdPart": "Editorial notes, Journal of Systems Architecture, Vol. 57, No. 1, pp. 1-3, 2011"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A.R. Shahrabi, H. Beigy",
+    "secondPart": "Network-based high performance computing",
+    "thirdPart": "Editorial notes, Springer's Supercomputing journal, Vol. 53, No. 1, pp. 1-4, 2010"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L. Mackenzie",
+    "secondPart": "Advances in computing systems science and engineering",
+    "thirdPart": "Editorial notes, Elsevier's Computers and Electrical Engineering, Vol. 36, pp. 803-1020, Issue 5, 2010"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L. Mackenzie",
+    "secondPart": "Network-based computing",
+    "thirdPart": "Editorial notes, Elsevier's Journal of Computer and System Sciences, Vol. 73, pp. 1119-1120, 2007"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, A. Zomaya",
+    "secondPart": "Performance evaluation of networks for parallel, cluster, and grid computing",
+    "thirdPart": "Editorial notes, Elsevier's Parallel Computing, Vol. 32, No. 11 and 12, pp. 775-776, 2006"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, A. Zomaya",
+    "secondPart": "Design and performance of networks for super-, cluster-, and grid-computing: Part II",
+    "thirdPart": "Editorial notes, Elsevier's Journal of Parallel and Distributed Computing, Vol. 65, No. 10, pp. 1301-1304, 2005"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, A. Zomaya",
+    "secondPart": "Design and performance of networks for super-, cluster-, and grid-computing: Part I",
+    "thirdPart": "Editorial notes, Elsevier's Journal of Parallel and Distributed Computing, Vol. 65, No. 9, pp. 1119-1122, 2005"
+  },
+  {
+    "firstPart": "M. Ould-Khaoua, H. Sarbazi-Azad, M. S. Obaidat",
+    "secondPart": "Performance modeling and evaluation of high-performance parallel and distributed systems",
+    "thirdPart": "Editorial notes, Elsevier's Performance Evaluation: An International Journal, Vol. 60, No. 1, 2, 3, and 4, pp. 1-4, 2005"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Source code for ICD paper, ACM TODAES 2019",
+    "description": "ICD is a novel cache management policy that seeks to reduce costly writebacks in the context of non-volatile memory technologies.",
+    "links": [
+      {
+        "label": "Git Repo",
+        "link": "https://github.com/bakhshalipour/ICD"
+      },
+      {
+        "label": "Main Paper",
+        "link": "http://ce.sharif.edu/~bakhshalipour/papers/icd_todaes19.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Source code for Bingo paper, HPCA 2019",
+    "description": "Bingo is a novel data prefetching approach that exploits the spatial correlation of access patterns to predict and prefetch future cache misses of applications.",
+    "links": [
+      {
+        "label": "Git Repo",
+        "link": "https://github.com/bakhshalipour/Bingo"
+      },
+      {
+        "label": "Main Paper",
+        "link": "http://ce.sharif.edu/~bakhshalipour/papers/bingo_hpca19.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Source code for LTRF paper, ASPLOS 2018",
+    "description": "LTRF is a novel architecture for the register file of GPUs that seeks to use a two-level structure, providing both low-latency and low-power consumption.",
+    "links": [
+      {
+        "label": "Git Repo",
+        "link": "https://github.com/CMU-SAFARI/Register-Interval"
+      },
+      {
+        "label": "Main Paper",
+        "link": "http://users.ece.cmu.edu/~rausavar/pubs/ltrf-asplos18.pdf"
+      }
+    ]
+  },
+  {
+    "title": "XMulator: A listener-Based Integrated Simulation Platform for Interconnection Networks, AMS 2007",
+    "description": "Xmulator is a listener-based simulation framework for interconnection networks, sensor networks, queuing networks in C#.",
+    "links": [
+      {
+        "label": "XMulator",
+        "link": "http://www.xmulator.com/"
+      }
+    ]
+  },
+  {
+    "title": "An open-source Verilog implementation for Netowork-on-Chip (NoC)",
+    "description": "This project provides an open-source Verilog implementation for Network-on-Chip (NoC), enabling experimental studies.",
+    "links": [
+      {
+        "label": "Git Repo",
+        "link": "https://github.com/bakhshalipour/NoC-Verilog"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1067 @@
+[
+  {
+    "firstPart": "S. Mostofi, H. Falahati, N.Mahani, P.Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Snake: A Variable-length Chain-based Prefetching Mechanism for GPUs",
+    "thirdPart": "to be appeared in MICRO 2023"
+  },
+  {
+    "firstPart": "S. Darabi, M. Sadrosadati, N. Akbarzadeh, J. Lindegger, S. Hosseini, J. Park, J. Luna, O. Mutlu, H. Sarbazi-Azad",
+    "secondPart": "Morpheus: Extending the last level cache in GPU systems with idle GPU cores' resources",
+    "thirdPart": "MICRO-2022"
+  },
+  {
+    "firstPart": "N. Rohbani, A. Soleimani, H. Sarbazi-Azad",
+    "secondPart": "PIPF-DRAM: Processing in precharge-free DRAM",
+    "thirdPart": "DAC-2022, San Francisco, USA"
+  },
+  {
+    "firstPart": "S. Darabi, N. Mahani, H. Baxishi, E. Yousefzadeh, M. Sadrossadati, H. Sarbazi-Azad",
+    "secondPart": "NURA: Supporting Non-Uniform Resource Accesses in GPUs",
+    "thirdPart": "SIGMETRICS-2022, Mumbai, India"
+  },
+  {
+    "firstPart": "N. Rohbani, S. Darabi, H. Sarbazi-Azad",
+    "secondPart": "PF-DRAM: A precharge-free DRAM structure",
+    "thirdPart": "Proceedings of 48th Intl Symposium on Computer Architecture (ISCA2021), 14-16 June, 2021, Valencia, Spain"
+  },
+  {
+    "firstPart": "S. Nabavi-Larimi, B. Salami, O. Unsal, A. Kestelman, H. Sarbazi-Azad, O. Mutlu",
+    "secondPart": "Understanding power consumption and reliability of high-bandwidth memory with voltage underscaling",
+    "thirdPart": "Proceedings of Design, Automation and Test in Europe Conference (DATE2021), 1-5 Feb. 2021, Grenoble, France"
+  },
+  {
+    "firstPart": "B. Salami, E.B. Onural, I.E. Yuksel, F. Koc, O. Ergin, A.C. Kestelman, O.S. Unsal, H. Sarbazi-Azad, O. Mutlu",
+    "secondPart": "An experimental study of reduced-voltage operation in modern FPGAs for neural network acceleration",
+    "thirdPart": "Proceedings of 50th IEEE/IFIP Intl. Conference on Dependable Systems and Networks (DSN2020), 29 June-2 July 2020, Valencia, Spain"
+  },
+  {
+    "firstPart": "A. Ansari, F. Golshan, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Divide and conquer instruction cache misses",
+    "thirdPart": "Proceedings of 47th Intl Symposium on Computer Architecture (ISCA2020), 30 May-3 June, 2020, Valencia, Spain"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, M. Shakerinava, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Bingo spatial data prefetcher",
+    "thirdPart": "The 25th IEEE Symposium on High Performance Computer Architecture (HPCA2019), 16-20 February 2019, Washington D.C., USA"
+  },
+  {
+    "firstPart": "F. Serajeh-hassani, M. Sadrosadati, S. Pointner, R. Wille, H. Sarbazi-Azad",
+    "secondPart": "Focus on what is needed: area and power efficient FPGAs using turn-restricted switch boxes",
+    "thirdPart": "IEEE Annual Symposium on VLSI (ISVLSI2019), 15-17 July 2019, Miami, FL, USA"
+  },
+  {
+    "firstPart": "M. Sadrosadati, A. Mirhosseini, B. Ehsani, H. Sarbazi-Azad, M.P. Drumond, B. Falsafi, R. Ausavarungnirun, O. Mutlu",
+    "secondPart": "LTRF: enabling high-capacity register files for GPUs via hardware/software cooperative register prefetching",
+    "thirdPart": "The 23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS2018), 24-28 March 2018, Williamsburg, VA, USA"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Domino temporal data prefetcher",
+    "thirdPart": "The 24th IEEE Symposium on High Performance Computer Architecture (HPCA2018), 24-28 February 2018, Vienna, Austria"
+  },
+  {
+    "firstPart": "P. Lotfi-Kamran, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "NOC characteristics of cloud applications",
+    "thirdPart": "Proc. of 19th International Symposium on Computer Architecture and Digital Systems (CADS), 2018, Kish Island, Iran. Best Paper Award Winner"
+  },
+  {
+    "firstPart": "A. Mirhosseini, M. Sadrosadati, B. Soltani, H. Sarbazi-Azad, T. Wenisch",
+    "secondPart": "BiNoCHS: Bimodal Network-on-Chip for CPU-GPU Heterogeneous Systems",
+    "thirdPart": "11th IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 2017, Seoul, Korea. Best Paper Award Winner"
+  },
+  {
+    "firstPart": "A. Mirhosseini, M. Sadrosadati, B. Soltani, H. Sarbazi-Azad, T. Wenisch",
+    "secondPart": "POSTER: Elastic reconfiguration for heterogeneous NoCs with BiNoCHS",
+    "thirdPart": "26th International Conference on Parallel Architectures and Compilation Techniques (PACT), 2017"
+  },
+  {
+    "firstPart": "M Asadinia, M Jalili, H Sarbazi-Azad",
+    "secondPart": "Data block partitioning for recovering stuck-at faults in PCMs",
+    "thirdPart": "IEEE International Conference on Networking, Architecture, and Storage (IEEE NAS), 2017, Shenzhen, China"
+  },
+  {
+    "firstPart": "M. Sadrosadati, A.H. Mirhosseini, S. Roozkhosh, H. Bakhishi, H. Sarbazi-Azad",
+    "secondPart": "Effective cache bank placement for GPUs",
+    "thirdPart": "International Conference on Design, Automation and Test in Europe (DATE2017), 27-31 March 2017, Lausanne, Switzerland"
+  },
+  {
+    "firstPart": "P. Lotfi-Kamran, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Near-ideal networks-on-chip for servers",
+    "thirdPart": "The 23rd IEEE Symposium on High Performance Computer Architecture (HPCA2017), 4-8 February 2017, Austin, TX, USA"
+  },
+  {
+    "firstPart": "M. Jalili, J. Bourgeois, H. Sarbazi-Azad",
+    "secondPart": "Power-efficient partially-adaptive routing in on-chip mesh networks",
+    "thirdPart": "International SoC Design Conference (ISOCC2016), 23-26 October 2016, Jeju, Korea"
+  },
+  {
+    "firstPart": "M. Vafaiee, M. Jalili, R. Sabbaghi, H. Sarbazi-Azad",
+    "secondPart": "An efficient on-chip network with packet compression capability",
+    "thirdPart": "International SoC Design Conference (ISOCC2016), 23-26 October 2016, Jeju, Korea"
+  },
+  {
+    "firstPart": "F. Agha-Aliakbari, M. Hoveida, M. Arjomand, M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Efficient processor allocation in a reconfigurable CMP architecture for dark silicon era",
+    "thirdPart": "International Conference on Computer Design (ICCD 2016), 3-5 October 2016, Phoenix, AZ, USA"
+  },
+  {
+    "firstPart": "M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Tolerating more hard errors in MLC PCMs using compression",
+    "thirdPart": "International Conference on Computer Design (ICCD 2016), 3-5 October 2016, Phoenix, AZ, USA"
+  },
+  {
+    "firstPart": "A. Mirhosseini, M. Sadrosadati, M. Zarre, H. Sarbazi-Azad",
+    "secondPart": "NT-NoC: a reconfigurable near-threshold NoC architecture for future many-core systems",
+    "thirdPart": "International Conference on Computer Design (ICCD 2016), 3-5 October 2016, Phoenix, AZ, USA"
+  },
+  {
+    "firstPart": "H. Aghilinasab, M. Sadrosadati, M. Samavatian, H. Sarbazi-Azad",
+    "secondPart": "Reducing power consumption of GPGPUs through instruction reordering",
+    "thirdPart": "International Symposium on Low Power Electronics and Design (ISLPED 2016), 8-10 August 2016, San Francisco, CA, USA"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "BLESS: a simple and efficient scheme for prolonging PCM lifetime",
+    "thirdPart": "53rd Design Automation Conference (DAC 2016), 1-5 June 2016, Austin, TX, USA"
+  },
+  {
+    "firstPart": "M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Captopril: reducing the pressure of bit flips on hot locations in non-volatile main memories",
+    "thirdPart": "International Conference on Design, Automation and Test in Europe (DATE 2016), 14-18 March 2016, Dresden, Germany"
+  },
+  {
+    "firstPart": "M. Sadrosadati, R. Bashizade, S. Roozkhosh, A. Shafiee and H. Sarbazi-Azad",
+    "secondPart": "A method to improve adaptivity of odd-even routing algorithm in mesh NoCs",
+    "thirdPart": "17-19 February 2016, Heraklion, Greece"
+  },
+  {
+    "firstPart": "R. Bashizadeh, H. Sarbazi-Azad",
+    "secondPart": "Traffic-aware buffer reconfiguration in on-chip networks",
+    "thirdPart": "IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 5-7 October 2105, Daejeon, Korea"
+  },
+  {
+    "firstPart": "M. Asadinia, H. Sarbazi-Azad",
+    "secondPart": "Using intra-line level pairing for graceful degradation support in PCMs",
+    "thirdPart": "IEEE International Symposium on VLSI, 8-10 July 2015, Montpellier, France"
+  },
+  {
+    "firstPart": "M. Sadrosadati, A. Mirhosseini, H. Aghilinasab, H. Sarbazi-Azad",
+    "secondPart": "An efficient DVS scheme for on-chip networks using reconfigurable virtual channel allocators",
+    "thirdPart": "International Symposium on Low Power Electronics and Design (ISLPED 2015), 22-24 July 2015, Rome, Italy"
+  },
+  {
+    "firstPart": "A. Mirhosseini, M. Sadrosadati, A. Fakhrzadehgan, M. Modarressi, and H. Sarbazi-Azad",
+    "secondPart": "An energy-efficient virtual channel power-gating mechanism for on-chip networks",
+    "thirdPart": "International Conference on Design, Automation and Test in Europe (DATE 2015), 9-13 March 2015, Grenoble, France"
+  },
+  {
+    "firstPart": "M. Tarihi, H. Asadi, H. Sarbazi-Azad",
+    "secondPart": "DiskAccel: accelerating disk-based experiments by representative sampling",
+    "thirdPart": "ACM SIGMETRICS, 15-19 June 2015, Portland, Oregon, USA"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A reconfigurable NoC topology for the dark silicon era",
+    "thirdPart": "11th. FPGAWorld Conference, Denmark, 2014"
+  },
+  {
+    "firstPart": "A. Tavakkol, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Design for scalability in enterprise SSDs",
+    "thirdPart": "The 23rd International Conference on Parallel Architectures and Compilation Techniques (PACT2014), 24-27 August 2014, Edmonton, Alberta, Canada"
+  },
+  {
+    "firstPart": "M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "A compression-based morphable PCM architecture for improving resistance drift tolerance",
+    "thirdPart": "IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP2014), 18-20 June 2014, Zurich, Switzerland"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A reconfigurable network-on-chip architecture for heterogeneous CMPs in the dark-silicon era",
+    "thirdPart": "IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP2014), 18-20 June 2014, Zurich, Switzerland"
+  },
+  {
+    "firstPart": "M. Hoseinzadeh, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Reducing access latency of MLC PCMs",
+    "thirdPart": "41st ACM/IEEE International Symposium on Computer Architecture (ISCA2014), 14-18 June 2014, Minneapolis, MN, USA"
+  },
+  {
+    "firstPart": "M. Jalili, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "A reliable 3D MLC PCM architecture with resistance drift predictor",
+    "thirdPart": "44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2014), 23-26 June 2014, Atlanta, GA, USA"
+  },
+  {
+    "firstPart": "A. Tavakkol, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Unleashing the potentials of dynamism for page allocation strategies in SSDs",
+    "thirdPart": "ACM SIGMETRICS, 16-20 June 2014, Austin, TX, USA"
+  },
+  {
+    "firstPart": "M. Samavatian, M. Abbasitabar, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Fast and low-power STT-RAM last level cache for GPGPUs,",
+    "thirdPart": "51st Design Automation Conference (DAC2014), 1-5 June 2012, San Francisco, CA, USA"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "OD3P: on-demand page paired PCM",
+    "thirdPart": "51st Design Automation Conference (DAC2014), 1-5 June 2012, San Francisco, CA, USA"
+  },
+  {
+    "firstPart": "M. Ghane, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "An opto-electrical NoC with traffic flow prediction in chip multiprocessors",
+    "thirdPart": "22nd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP2014), 12-14 Feb. 2014, Turin, Italy"
+  },
+  {
+    "firstPart": "N. Teymouri, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Power and performance efficient partial circuits in packet-switched networks-on-chip",
+    "thirdPart": "21th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 29 Feb.-1 March 2013, Belfast, U.K"
+  },
+  {
+    "firstPart": "Y. Asgarieh, M. Khabbazian, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A game theoretical thermal-aware run-time task synchronization method for multiprocessor systems-on-chip",
+    "thirdPart": "15th Euromicro Conference on Digital System Design (DSD), 5-8 September 2012, Izmir, Turkey"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Reconfigurable cluster-based networks-on-chip for application-specific MPSoCs",
+    "thirdPart": "23rd IEEE International Conference on Application-Specific Systems, Architectures and Processors (ASAP), 9-11 July 2012, Delft, Netherlands"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad, A. Jadidi, M. Rezaei",
+    "secondPart": "Relaxing writes in non-volatile processor cache using frequent value locality",
+    "thirdPart": "49th Design Automation Conference (DAC), 3-7 June 2012, San Francisco, CA, USA"
+  },
+  {
+    "firstPart": "P. Khadem, S. Hessabi, H. Sarbazi-Azad, N. E. Jerger",
+    "secondPart": "Exploration on temperature constraints for thermal aware mapping of 3D networks on chip",
+    "thirdPart": "20th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 15-17 Feb. 2012, Garching, Germany"
+  },
+  {
+    "firstPart": "M. Arjomand, A. Jadidi, A. Shafiee, H. Sarbazi-Azad",
+    "secondPart": "A morphable phase change memory architecture considering frequent zero values",
+    "thirdPart": "International Conference on Computer Design (ICCD), 9-12 October 2011, Amherst, MA, USA"
+  },
+  {
+    "firstPart": "R. Jabbarvand, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A reconfigurable fault-tolerant routing algorithm to optimize the network-on-chip performance and latency in presence of intermittent and permanent faults",
+    "thirdPart": "International Conference on Computer Design (ICCD), 9-12 October 2011, Amherst, MA, USA"
+  },
+  {
+    "firstPart": "H. Yaghoubi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A distributed task migration scheme for mesh-based chip-multiprocessors",
+    "thirdPart": "12th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT), 20-22 October 2011, Gwangju, Korea, pp.24-29, 2011"
+  },
+  {
+    "firstPart": "A. Shafiee, M. Zolghadr, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Application-aware deadlock-free oblivious routing based on extended turn-model",
+    "thirdPart": "International Conference on Computer-Aided Design (ICCAD), 6-10 November 2011, San Jose, California, USA"
+  },
+  {
+    "firstPart": "A. Jadidi, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "High-endurance and performance-efficient design of hybrid cache architecture through adaptive line replacement",
+    "thirdPart": "International Symposium on Low Power Electronics and Design (ISLPED), 1-3 August 2011, Fukuoka, Japan"
+  },
+  {
+    "firstPart": "N. Teymouri, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Energy-optimized on-chip networks using reconfigurable shortcut paths",
+    "thirdPart": "23rd International Conf. of Architectures for Computing Systems (ARCS), 22-25 February 2011, Como, Italy"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Modarressi, A. Tavakkol, H. Sarbazi-Azad",
+    "secondPart": "Supporting non-contiguous processor allocation in CMPs using virtual point-to-point links",
+    "thirdPart": "Design Automation and Test in Europe (DATE), 14-18 March 2011, Grenoble, France"
+  },
+  {
+    "firstPart": "A. Habibi, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Multicast-aware mapping algorithm for on-chip networks",
+    "thirdPart": "19th Euromicro International Conf. on Parallel, Distributed and Network-Based Computing (PDP), 9-11 February 2011, Ayia Napa, Cyprus"
+  },
+  {
+    "firstPart": "B. Goodarzi, H. Sarbazi-Azad",
+    "secondPart": "Task migration in mesh NoCs over virtual point-to-point connections",
+    "thirdPart": "19th Euromicro International Conf. on Parallel, Distributed and Network-Based Computing (PDP), 9-11 February 2011, Ayia Napa, Cyprus"
+  },
+  {
+    "firstPart": "M. Modarressi, A. Tavakkol, H. Sarbazi-Azad",
+    "secondPart": "An efficient dynamically reconfigurable on-chip network architecture",
+    "thirdPart": "47th Design Automation Conference (DAC), 13-18 June 2010, Anaheim, California"
+  },
+  {
+    "firstPart": "M. Asefi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A load-balanced routing scheme for NoC-based systems-on-chip",
+    "thirdPart": "Workshop on Hardware and Software Implementation and Control of Distributed MEMS (dMEMS), IEEE Press, 28-29 June 2010, Besancon, France"
+  },
+  {
+    "firstPart": "N. Najjari, H. Sarbazi-Azad",
+    "secondPart": "Application specific router architectures for NoCs: an efficiency and power consumption analysis",
+    "thirdPart": "Workshop on Hardware and Software Implementation and Control of Distributed MEMS (dMEMS), IEEE Press, 28-29 June 2010, Besancon, France"
+  },
+  {
+    "firstPart": "P. Mahdavinia, H. Sarbazi-Azad",
+    "secondPart": "An efficient routing algorithm for irregular mesh NoCs",
+    "thirdPart": "IEEE International Symposium on Circuits and Systems (ISCAS), 30 May-2 June 2010, Paris, France"
+  },
+  {
+    "firstPart": "M. Hoseingholi, H. Sarbazi-Azad",
+    "secondPart": "Improving the performance of deadlock recovery based routing in irregular mesh NoCs using added mesh-like links",
+    "thirdPart": "IEEE International Symposium on Circuits and Systems (ISCAS), 30 May-2 June 2010, Paris, France"
+  },
+  {
+    "firstPart": "S. Sahaf, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A novel SDM-based on-chip communication mechanism",
+    "thirdPart": "Fourth European Conference on the Use of Modern Information and Communication Technologies (ECUMICT), 25-26 March 2010, Gent, Belgium"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Voltage-frequency planning for thermal-aware, low power design of regular 3D NoCs",
+    "thirdPart": "The 23rd International Conference on VLSI Design, 3-7 January 2010, Bangalore, India"
+  },
+  {
+    "firstPart": "D. Rahmati, S. Murali, L. Benini, F. Angiolini, G. De Micheli, H. Sarbazi-Azad",
+    "secondPart": "A method for calculating hard QoS guarantees for networks-on-Chip",
+    "thirdPart": "IEEE/ACM The International Conference on Computer-Aided Design (ICCAD), 2-5 November 2009, San Jose, CA, USA"
+  },
+  {
+    "firstPart": "H. Sadeghi, H. Sarbazi-Azad, H.R. Zarandi",
+    "secondPart": "Power-aware branch target prediction using a new BTB architecture",
+    "thirdPart": "The 17th IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 12-14 October 2009, Florianapolis, Brazil"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad, A. Tavakol",
+    "secondPart": "Performance and power efficient on-chip communication using adaptive virtual point-to-point connections",
+    "thirdPart": "ACM/IEEE Symposium on Networks-on-Chip (NOCS), 10-13 May 2009, San Diego, CA, USA"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "A comprehensive power-performance model for NoCs with multi-flit channel buffers",
+    "thirdPart": "23rd International Conference on Supercomputing (ICS), 8-12 June 2009, New York, USA"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "A hybrid packet-switched and circuit-switched on-chip network based on spatial-division multiplexing",
+    "thirdPart": "Design, Automation and Test in Europe (DATE), 20-24 April 2009, Nice, France"
+  },
+  {
+    "firstPart": "A. Nazi, H. Sarbazi-Azad",
+    "secondPart": "A path-based broadcast algorithm for wormhole hypercubes",
+    "thirdPart": " IWGN Workshop in I-SPAN2009, 14-16 December 2009, Kaohsiung, Taiwan"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad",
+    "secondPart": "A general methodology for routing in irregular networks",
+    "thirdPart": "17th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP2009), 18-20 February 2009, Weimar, Germany"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad, G. Karlsson",
+    "secondPart": "Routing, data gathering, and neighbor discovery in delay-tolerant wireless sensor networks",
+    "thirdPart": "PMEO Workshop in IEEE/ACM IPDPS2009, 19-23 April 2009, Atlanta, GA, USA"
+  },
+  {
+    "firstPart": "R. Sabbaghi, H. Sarbazi-Azad",
+    "secondPart": "The Kautz mesh: a new topology for SoCs",
+    "thirdPart": "International System on Chip Conference (ISOCC2008), 24-25 November 2008, Busan, Korea"
+  },
+  {
+    "firstPart": "V. Samadi, A. Shamaei, H. Sarbazi-Azad, M. Abbaspour",
+    "secondPart": "A new routing algorithm for irregular mesh NoCs",
+    "thirdPart": "International System on Chip Conference (ISOCC2008), 24-25 November 2008, Busan, Korea"
+  },
+  {
+    "firstPart": "R. Moraveji, P. Moinzadeh, H. Sarbazi-Azad",
+    "secondPart": "Direction-based routing methodology for irregular NoCs",
+    "thirdPart": "International System on Chip Conference (ISOCC2008), 24-25 November 2008, Busan, Korea"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of butterfly on-chip network for MPSoCs",
+    "thirdPart": "International System on Chip Conference (ISOCC2008), 24-25 November 2008, Busan, Korea"
+  },
+  {
+    "firstPart": "H. Ebrahimi-Kahaki, H. Sarbazi-Azad",
+    "secondPart": "Broadcast algorithms on OTIS-cubes",
+    "thirdPart": "International Symposium on Advances in Parallel and Distributed Computing Techniques (APDCT-08), December 10-12, 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "M. Khoramabadi, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of broadcast algorithms in all-port 2D mesh networks",
+    "thirdPart": "International Symposium on Advances in Parallel and Distributed Computing Techniques (APDCT-08), December 10-12, 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "R. Moraveji, P. Moinzadeh, H. Sarbazi-Azad",
+    "secondPart": "A general approach for analytical modeling of irregular NoCs",
+    "thirdPart": "IEEE International Symposium on Parallel and Distributed Processing and Applications (ISPA-08), December 10-12, 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "A. Tavakol, H. Sarbazi-Azad",
+    "secondPart": "Mesh connected crossbars: a novel NoC topology with scalable communication bandwidth",
+    "thirdPart": "IEEE International Symposium on Parallel and Distributed Processing and Applications (ISPA-08), December 10-12, 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad, A. Tavakol",
+    "secondPart": "Virtual point-to-point links in packet switched NoCs",
+    "thirdPart": "IEEE International Symposium on VLSI (IEEE ISVLSI 2008), 2008, France"
+  },
+  {
+    "firstPart": "R. Sabbaghi, H. Sarbazi-Azad",
+    "secondPart": "The 2D DBM: an attractive alternative to the simple 2D mesh topology for on-chip networks",
+    "thirdPart": "26th IEEE International Conference on Computer, October 12-15, 2008, Lake Tahoe, California, USA"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad, H. Amiri",
+    "secondPart": "Multi-objective genetic optimized multi-procossor SoC design",
+    "thirdPart": "International Symposium on System-on-Chip, November 4-6, 2008, Tampere, Finland"
+  },
+  {
+    "firstPart": "A. Eslami, S. Hessabi, H. Sarbazi-Azad",
+    "secondPart": "PERMAP: a performance-aware mapping for application-specific SoCs",
+    "thirdPart": "IEEE ASAP2008, 2008, Belgium"
+  },
+  {
+    "firstPart": "A. Eslami, H. Sarbazi-Azad, S. Hessabi",
+    "secondPart": "Caspian: A Tunable Performance Model for Multi-Core Systems",
+    "thirdPart": "Euro-Par2008, 26-29 August, 2008, Canary Islands, Spain"
+  },
+  {
+    "firstPart": "A. Shamaei, H. Sarbazi-Azad",
+    "secondPart": "An adaptive and fault-tolerant routing algorithm for meshes",
+    "thirdPart": "The 2008 International Conference on Computational Science and Its Applications (ICCSA2008), Italy"
+  },
+  {
+    "firstPart": "D. Rahmati, A. Eslami, H. Sarbazi-Azad, S. Hessabi",
+    "secondPart": "A power efficient routing algorithm for torus NoCs",
+    "thirdPart": "ICCC2008, New Delhi, 7-9 August, 2008"
+  },
+  {
+    "firstPart": "S. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "One-to-one and one-to-many node-disjoint routing algorithms for RTCC networks",
+    "thirdPart": "ICCC2008, New Delhi, 7-9 August, 2008"
+  },
+  {
+    "firstPart": "S. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "Efficient VLSI layout of grid pyramid networks",
+    "thirdPart": "ICCC2008, New Delhi, 7-9 August, 2008"
+  },
+  {
+    "firstPart": "A. Shamaei, H. Sarbazi-Azad",
+    "secondPart": "A simple and efficient fault-tolerant adaptive routing algorithm for meshes",
+    "thirdPart": "ICA3PP2008, Springer's LNCS, 2008, Cyprus"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad, A. Tavakol",
+    "secondPart": "The effect of network topology and channel labels on the performance of label-based routing algorithms",
+    "thirdPart": "International Conference on Computational Sciences (ICCS2008), Springer's LNCS, 2008, Krakow, Poland"
+  },
+  {
+    "firstPart": "S. Bakhshi, M. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "Parallel routing in composition and product networks",
+    "thirdPart": "The 13th International CSI Computer Conference (CSICC2008), Springer's CCIS, 19-21 March 2008, Kish, Iran"
+  },
+  {
+    "firstPart": "S. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "VLSI layout of WK-recursive networks",
+    "thirdPart": "13th International CSI Computer Conference (CSICC2008), Springer's CCIS, 19-21 March 2008, Kish, Iran"
+  },
+  {
+    "firstPart": "R. Sabbaghi, H. Sarbazi-Azad",
+    "secondPart": "A novel high-performance and low-power mesh-based NoC",
+    "thirdPart": "IEEE IPDPS 2008, 14-18 April 2008, Miami, Florida, USA"
+  },
+  {
+    "firstPart": "P. Moinzadeh, H. Sarbazi-Azad, N. Yazdani",
+    "secondPart": "Resource placement in cube-connected cycles",
+    "thirdPart": "9th International Symposium on Parallel Architectures, Algorithms and Networks (I-SPAN2008), IEEE Computer Society Press, 7-9 May 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "A. Sharifi, R. Sabaghi, H. Sarbazi-Azad",
+    "secondPart": "The shuffle-exchange mesh topology for 3D NoCs",
+    "thirdPart": "9th International Symposium on Parallel Architectures, Algorithms and Networks (I-SPAN2008), IEEE Computer Society Press, 7-9 May 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "S. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "One-to-one and one-to-many node-disjoint routing algorithms for WK-recursive meshes",
+    "thirdPart": "9th International Symposium on Parallel Architectures, Algorithms and Networks (I-SPAN2008), IEEE Computer Society Press, 7-9 May 2008, Sydney, Australia"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad, K. Alishahi",
+    "secondPart": "Analysis of k-neigh topology control protocol for wireless networks",
+    "thirdPart": "Fourth IEEE International Workshop on Heterogeneous Wireless Networks (HWISE2008), IEEE Computer Society Press, 25-28 March 2008, Okinawa, Japan"
+  },
+  {
+    "firstPart": "M. Mirza-Aghatabar, A. Tavakkol, H. Sarbazi-Azad, A. Nayebi",
+    "secondPart": "An adaptive software-based deadlock recovery technique",
+    "thirdPart": "Fourth International Symposium on Frontiers in Networking with Applications (FINA2008), IEEE Computer Society Press, 25-28 March 2008, Ginowan city, Japan"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad",
+    "secondPart": "Empirical performance evaluation of stretched hypercubes",
+    "thirdPart": "Fourth International Symposium on Frontiers in Networking with Applications (FINA2008), IEEE Computer Society Press, 25-28 March 2008, Ginowan city, Japan"
+  },
+  {
+    "firstPart": "P. Moinzadeh, H. Sarbazi-Azad",
+    "secondPart": "Resource placement in the edge product of graphs",
+    "thirdPart": "IEEE International Conference on Advanced Information Networks and Applications (IEEE AINA 2008), 25-28 March 2008, Okinawa, Japan"
+  },
+  {
+    "firstPart": "S. Bakhshi, H. Sarbazi-Azad",
+    "secondPart": "Efficient VLSI layout of edge product networks",
+    "thirdPart": "International Symposium on Electronic Design, Test and Applications (IEEE DELTA 2008), 23-25 January 2008, Hong Kong, China"
+  },
+  {
+    "firstPart": "A. Eslami, D. Rahmati, H. Sarbazi-Azad, S. Hessabi",
+    "secondPart": "A Markovian performance model for network-on-chips",
+    "thirdPart": "16th Euromicro Conference on Parallel Distributed and network-based Processing, IEEE Computer Press, Toulouse, France, 13-15 February 2008"
+  },
+  {
+    "firstPart": "M. Rezazad, M. HoseinyFarahani, H. Sarbazi-Azad",
+    "secondPart": "A deadlock free shortest path routing algorithm for WK-recursive meshes",
+    "thirdPart": "9th International Conference on Distributed Computing and Networking (ICDCN2008), Lecture Notes on Computer Science, 5-8 January 2008, Kolkata, India"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad",
+    "secondPart": "Mathematical performance modelling of stretched hypercubes",
+    "thirdPart": "9th International Conference on Distributed Computing and Networking (ICDCN2008), Lecture Notes on Computer Science, 5-8 January 2008, Kolkata, India"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-azad",
+    "secondPart": "Lifetime analysis of the logical topology constructed by homogeneous topology control in wireless mobile networks",
+    "thirdPart": "IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS) PMAC 2007, 5-7 December 2007, Taiwan"
+  },
+  {
+    "firstPart": "N. Shahbazi, H. Sarbazi-Azad",
+    "secondPart": "Accelerating 3-D capacitance extraction in deep sub-micron VLSI design using vector/parallel computing",
+    "thirdPart": "IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS) PMAC 2007, 5-7 December 2007, Taiwan"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad",
+    "secondPart": "Mathematical performance analysis of product networks",
+    "thirdPart": "IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS) PMAC 2007, 5-7 December 2007, Taiwan"
+  },
+  {
+    "firstPart": "A. Jalali, H. Sarbazi-Azad",
+    "secondPart": "The edge-product of networks",
+    "thirdPart": "International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'07), 3-6 December, 2007, Adelaide, Australia"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Distant-based resource placement in product networks",
+    "thirdPart": "International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'07), 3-6 December, 2007, Adelaide, Australia"
+  },
+  {
+    "firstPart": "E. Larijani, H. Sarbazi-Azad",
+    "secondPart": "Parallel Hermite interpolation on the pyramid",
+    "thirdPart": "22nd IEEE International Symposium on Computer and Information Sciences (ISCIS2007), 7-9 November, 2007, Ankara, Turkey"
+  },
+  {
+    "firstPart": "A. Shamaei, A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Improving fault-tolerant planar adaptive routing algorithm",
+    "thirdPart": "22nd IEEE International Symposium on Computer and Information Sciences (ISCIS2007), 7-9 November, 2007, Ankara, Turkey"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Power-aware mapping for reconfigurable NoC architectures",
+    "thirdPart": "IEEE International Conference on Computer Design (IEEE ICCD), 7-10 October 2007, Lake Tahoe, CA, USA"
+  },
+  {
+    "firstPart": "A. Nayebi, A. Shamaei, H. Sarbazi-Azad",
+    "secondPart": "Improving a fault-tolerant routing algorithm using detailed traffic analysis",
+    "thirdPart": "International Conference on High Performance Computing and Communications (HPCC 2007), Springer LNCS, September 26-28, 2007, Houston, USA"
+  },
+  {
+    "firstPart": "M.R. Hosseiny, H. Sarbazi-Azad",
+    "secondPart": "On the pancyclicity of OTIS networks",
+    "thirdPart": "International Conference on High Performance Computing and Communications (HPCC 2007), Springer LNCS, September 26-28, 2007, Houston, USA"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad, M. Abbaspour",
+    "secondPart": "Optimal placement of frequently accessed IPs in mesh NoCs",
+    "thirdPart": "12th Asia-Pacific Computer Systems Architecture Conference (ACSAC 2007), Springer LNCS, 23-25 August, 2007, Seoul, Korea"
+  },
+  {
+    "firstPart": "A. Sharifi, H. Sarbazi-Azad",
+    "secondPart": "Power consumption and performance analysis of 3D NoCs",
+    "thirdPart": "12th Asia-Pacific Computer Systems Architecture Conference (ACSAC 2007), Springer LNCS, 23-25 August, 2007, Seoul, Korea"
+  },
+  {
+    "firstPart": "H. Ajorloo, H. Ebrahimi, H. Sarbazi-Azad",
+    "secondPart": "Optimizing pipelines of trigonometric functions for FPGAs",
+    "thirdPart": "IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM2007), 22-24 August, 2007, Victoria, BC, Canada"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad",
+    "secondPart": "Resource placement in networks using chromatic sets of power graphs",
+    "thirdPart": "Proceedings of Computer Science Symposium in Russia (CSR2007), Springer LNCS, September 3-7, 2007, Ekaterinburg, Russia"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad",
+    "secondPart": "Performance modeling of wormhole hypermeshes under hotspot traffic load",
+    "thirdPart": "Proceedings of Computer Science Symposium in Russia (CSR2007), Springer LNCS, September 3-7, 2007, Ekaterinburg, Russia"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "On some combinatorial properties of WK-recursive and swapped networks",
+    "thirdPart": "Proceedings of the International Symposium on Parallel and Distributed Processing and Applications (ISPA2007), Springer LNCS, Niagara Falls, Canada, August 29-31, 2007"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of deterministic routing in wormhole necklace cubes",
+    "thirdPart": "Proceedings of the ACS/IEEE Conference on computers and Applications, 2007, Amman, Jordan"
+  },
+  {
+    "firstPart": "A. Nayebi, S. Meraji, A. Shamaei, H. Sarbazi-Azad",
+    "secondPart": "Xmulator: A listener-based integrated simulation platform for interconnection networks",
+    "thirdPart": "Proceedings of AMS2007, IEEE Press, Thailand, 2007"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad",
+    "secondPart": "Parallel numerical interpolation on necklace hypercube",
+    "thirdPart": "Proceedings of AMS2007, IEEE Press, Thailand, 2007"
+  },
+  {
+    "firstPart": "A. Shamaei, A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation and comparison of fault-tolerant routing algorithms in meshes",
+    "thirdPart": "12th CSI International Computer Conference (CSICC2007), 2007, Tehran, Iran"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad, A. Patooghy",
+    "secondPart": "Analytical modelling of necklace hypercubes",
+    "thirdPart": "20th IEEE International Parallel & Distributed Processing Symposium, 2007, San Diego, CA, USA"
+  },
+  {
+    "firstPart": "A. Nayebi, A. Khosravi, H. Sarbazi-Azad",
+    "secondPart": "The impact of stationary nodes on the performance of wireless mobile networks",
+    "thirdPart": "Third International Conference on Wireless and Mobile Communications (ICWMC2007), IEEE Computer Society Press, March 4-9, 2007, Guadeloupe, French Caribbean"
+  },
+  {
+    "firstPart": "A. Nayebi, M. Rahimi, H. Sarbazi-Azad",
+    "secondPart": "Analysis of time based random waypoint mobility model for wireless mobile networks",
+    "thirdPart": "International Conference on Information Technology- New Generations (ITNG2007), April 2-4, 2007, Las Vegas, USA"
+  },
+  {
+    "firstPart": "A. Nayebi, A. Khosravi, H. Sarbazi-Azad",
+    "secondPart": "On the link excess life in wireless mobile networks",
+    "thirdPart": "International Conference on Computing: Theory and Applications, IEEE Press, March 5-7, 2007, Kolkata, India"
+  },
+  {
+    "firstPart": "S. Meraji, A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of adaptive wormhole routing in necklace hypercubes",
+    "thirdPart": "International Conference on Computing: Theory and Applications, IEEE Press, March 5-7, 2007, Kolkata, India"
+  },
+  {
+    "firstPart": "A. Nayebi, M. Rahimi, H. Sarbazi-Azad",
+    "secondPart": "Time-based random waypoint mobility model",
+    "thirdPart": "The Australian Telecommunication Networks and Applications Conference (ATNAC2006), Dec. 4-6, 2006, Melbourne, Australia"
+  },
+  {
+    "firstPart": "M. Ravanbakhsh, Y. Abbasi-Yadkori, M. Abbaspour, H. Sarbazi-Azad",
+    "secondPart": "A heuristic routing mechanism using a new addressing scheme",
+    "thirdPart": " to appear, Bio Inspired Models of Network, Information and Computing Systems (BIONETICS'2006), IEEE Press, December 11-13, 2006, Cavalese, Italy"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Capturing an intruder in product networks",
+    "thirdPart": "13th Annual IEEE International Conference on High Performance Computing (IEEE HiPC'2006), December 18-21, 2006, Bangalore, India, pp.193-204"
+  },
+  {
+    "firstPart": "D. Rahmati, A. Eslami, S. Hessabi, H. Sarbazi-Azad",
+    "secondPart": "A performance and power analysis of WK-recursive and mesh networks for network-on-chips",
+    "thirdPart": "Proceedings of IEEE International Conference on Computer Design (ICCD'2006), October 1-3, 2006, San Jose, USA"
+  },
+  {
+    "firstPart": "A. Patooghy, H. Sarbazi-Azad",
+    "secondPart": "Analytical performance comparison of deterministic, partially-adaptive and fully-adaptive routing algorithms in binary n-cubes",
+    "thirdPart": "Proceedings of 12th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2006), July 12-15, 2006, Minneapolis, USA, pp.21-28"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, H. Mahini, A. Patooghy",
+    "secondPart": "Analytic modeling of channel traffic in n-cube networks",
+    "thirdPart": "Proceedings of Computer Science Symposium in Russia (CSR'2006), Springer LNCS, June 8-12, 2006, St. Petersburg, Russia, pp.567-579"
+  },
+  {
+    "firstPart": "P. Shareghi, H. Sarbazi-Azad",
+    "secondPart": "Capturing an intruder in the pyramid",
+    "thirdPart": "Proceedings of Computer Science Symposium in Russia (CSR'2006), Springer LNCS, June 8-12, 2006, St. Petersburg, Russia, pp.580-590"
+  },
+  {
+    "firstPart": "A. Khonsari, M. Ould-Khaoua, A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "The impact of timing constraints on virtual channels multiplexing in interconnection networks",
+    "thirdPart": "Proceedings of 20th IEEE IPCCC'2006, March 28-30, 2006, Phoenix, Arizona, USA"
+  },
+  {
+    "firstPart": "P. Rajabzadeh, H. Sarbazi-Azad, H. Hashemi, M. Ould-Khaoua",
+    "secondPart": "Performance modeling of fully adaptive wormhole routing in n-dimensional mesh-connected multicomputers",
+    "thirdPart": "Proceedings of 20th IEEE IPCCC'2006, March 28-30, 2006, Phoenix, Arizona, USA"
+  },
+  {
+    "firstPart": "A. Patooghy, H. Sarbazi-Azad",
+    "secondPart": "Performance comparison of partially-adaptive routing algorithms",
+    "thirdPart": "Proceedings of 20th IEEE International Conf. on Applied Information Networking and Applications (AINA'2006), March 28-30, 2006, Vienna, Austria, pp.763-767"
+  },
+  {
+    "firstPart": "A. Eslami, H. Sarbazi-Azad,  M. Ould-Khaoua",
+    "secondPart": "Analytical performance modelling of adaptive wormhole routing in the star interconnection network",
+    "thirdPart": "Proceedings of 20th IEEE International Parallel & Distributed Processing Symposium, April 25-29, 2006, Rhodes Island, Greece"
+  },
+  {
+    "firstPart": "A. Patooghy, H. Sarbazi-Azad",
+    "secondPart": "Analytical performance modelling of partially adaptive routing in wormhole hypercubes",
+    "thirdPart": "Proceedings of PMEO-PDS Workshop in the 20th IEEE International Parallel & Distributed Processing Symposium, April 25-29, 2006, Rhodes Island, Greece"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad",
+    "secondPart": "A physical particle and plane framework for load balancing in multiprocessors",
+    "thirdPart": "to appear, Proceedings of NIDISC Workshop in the 20th IEEE International Parallel & Distributed Processing Symposium, April 25-29, 2006, Rhodes Island, Greece"
+  },
+  {
+    "firstPart": "A. Eslami, H. Sarbazi-Azad",
+    "secondPart": "Analytical performance comparison of the star graph and hypercube",
+    "thirdPart": "to appear, Proceedings of PMEO-PDS Workshop in the 20th IEEE International Parallel & Distributed Processing Symposium, April 25-29, 2006, Rhodes Island, Greece"
+  },
+  {
+    "firstPart": "P. Shareghi, H. Sarbazi-Azad",
+    "secondPart": "Topological properties of stretched graphs",
+    "thirdPart": "to appear, ACS/IEEE International Conference on Computer Systems and Applications, IEEE Computer Society Press, March 8-11, 2006, Duabi/Sharjah, UAE"
+  },
+  {
+    "firstPart": "R. Iraji, H. Sarbazi-Azad",
+    "secondPart": "A probability-based instruction combining method for scheduling in VLIW processors",
+    "thirdPart": "ACS/IEEE International Conference on Computer Systems and Applications, IEEE Computer Society Press, March 8-11, 2006, Duabi/Sharjah, UAE"
+  },
+  {
+    "firstPart": "P. Shareghi, H. Sarbazi-Azad",
+    "secondPart": "The stretched-hypercube: a VLSI efficient network topology",
+    "thirdPart": "IEEE I-SPAN Workshop on Graphs and Networks, IEEE Computer Society Press, Dec. 7-9, 2005, Las Vegas, Nevada, USA, pp. 462-467"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, S. G. Akl",
+    "secondPart": "On some combinatorial properties of the star graph",
+    "thirdPart": " IEEE International Symposium on Parallel Architectures, algorithms and Networks (IEEE I-SPAN), IEEE Computer Society Press, Dec. 7-9, 2005, Las Vegas, Nevada, USA, pp. 58-65"
+  },
+  {
+    "firstPart": "P. Shareghi, H. Sarbazi-Azad",
+    "secondPart": "Topological properties of necklace networks",
+    "thirdPart": "IEEE International Symposium on Parallel Architectures, algorithms and Networks (IEEE I-SPAN), IEEE Computer Society Press, Dec. 7-9, 2005, Las Vegas, Nevada, USA, pp. 40-45"
+  },
+  {
+    "firstPart": "M. H. Farahabadi, H. Sarbazi-Azad",
+    "secondPart": "WK-recursive pyramid: a high performance network topology",
+    "thirdPart": "IEEE International Symposium on Parallel Architectures, algorithms and Networks (IEEE I-SPAN), IEEE Computer Society Press, Dec. 7-9, 2005, Las Vegas, Nevada, USA, pp. 312-317"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Parallel 3-dimensional DCT computation on k-ary n-cubes",
+    "thirdPart": "Proc. 8th International Conference on High Performance Computing in Asia Pacific Region (HPC Asia), IEEE Computer Society Press, 30 Nov.- 3 Dec., 2005, Beijing, China, pp. 91-97"
+  },
+  {
+    "firstPart": "A. Eslami, H. Sarbazi-Azad, M. Rezazad",
+    "secondPart": " Performance comparison of adaptive routing algorithms in the star interconnection network",
+    "thirdPart": "Proc. 8th International Conference on High Performance Computing in Asia Pacific Region (HPC Asia), IEEE Computer Society Press, 30 Nov.- 3 Dec., 2005, Beijing, China, pp. 257-264"
+  },
+  {
+    "firstPart": "M. H. Farahabadi, H. Sarbazi-Azad",
+    "secondPart": "The RTCC-pyramid: a versatile hierarchical network for parallel computing",
+    "thirdPart": "Proc. 8th International Conference on High Performance Computing in Asia Pacific Region (HPC Asia), IEEE Computer Society Press, 30 Nov.- 3 Dec., 2005, Beijing, China, pp. 493-498"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad",
+    "secondPart": "The star-pyramid graph: an attractive alternative to the pyramid network",
+    "thirdPart": "Proc. Tenth Asia-Pacific Computer Systems Architecture Conference (ACSAC2005), Lecture Notes in Computer Science (LNCS), 24-26 October, 2005, Singapore, pp. 509-519"
+  },
+  {
+    "firstPart": "M. S. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "Analytic performance modeling of a fully adaptive routing algorithm in the torus",
+    "thirdPart": "Proc. International Symposium on Parallel and Distributed Processing and Applications (ISPA'2005), Lecture Notes in Computer Science (LNCS), 2-5 Nov., 2005, Nanjing, China, pp. 984-989"
+  },
+  {
+    "firstPart": "H. Ahmadi, M. Moslemi, Sarbazi-Azad",
+    "secondPart": "Efficient SIMD numerical interpolation",
+    "thirdPart": "Proc. Int'l Conference on High Performance Computing and Communications (HPCC'05), Lecture Notes in Computer Science (LNCS), 21-24 September, 2005, Sorrento, Italy, pp. 156-165"
+  },
+  {
+    "firstPart": "M. Fazeli, H. Sarbazi-Azad, R. Farivar",
+    "secondPart": "Parallel clustering on the star graph",
+    "thirdPart": "Proc. 6th Int'l Conf. on Algorithms and Architectures for Parallel Processing (ICA3PP'05), Lecture Notes in Computer Science (LNCS), 2-5 October, 2005, Melbourne, Australia, pp. 287-292"
+  },
+  {
+    "firstPart": "M. S. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of fully adaptive routing under different workloads and constant node buffer size",
+    "thirdPart": "Proc. IEEE Int'l Conf. on Parallel & Distributed Systems PMAC-PDG'05 (Performance Modeling and Analysis of Communication in Parallel, Distributed, and Grid Networks) Workshop, July 20-22, 2005, Fukouka, Japan, pp. 510-514"
+  },
+  {
+    "firstPart": "M. Moslemi, H. Ahmadi, H. Sarbazi-Azad",
+    "secondPart": "Efficient polynomial root finding using SIMD extensions",
+    "thirdPart": "Proc. IEEE Int'l Conf. on Parallel & Distributed Systems PMAC-PDG'05 (Performance Modeling and Analysis of Communication in Parallel, Distributed, and Grid Networks) Workshop, July 20-22, 2005, Fukouka, Japan, pp. 529-533"
+  },
+  {
+    "firstPart": "M. S. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "The effect of virtual channel organization on the performance of interconnection networks",
+    "thirdPart": "Proc. IEEE/ACM International Parallel & Distributed Processing Symposium MPP (Massively Parallel Processing) Workshop, April 15-19, 2005, Denver, Colorado, U.S.A"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "An empirical comparison of OTIS-mesh and OTIS-hypercube multicomputer systems under deterministic routing",
+    "thirdPart": "Proc. IEEE/ACM International Parallel & Distributed Processing Symposium MPP (Massively Parallel Processing) Workshop, April 15-19, 2005, Denver, Colorado, U.S.A"
+  },
+  {
+    "firstPart": "R. Farivar, M. Fazeli, H. Sarbazi-Azad",
+    "secondPart": "A CORDIC-based processor extension for scalar and vector processing",
+    "thirdPart": "Proc. IEEE/ACM International Parallel & Distributed Processing Symposium PDSEC (Parallel and Distributed Scientific and Engineering Computing) Workshop, April 15-19, 2005, Denver, Colorado, U.S.A"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad",
+    "secondPart": "Parallel polynomial root extraction on a ring of processors",
+    "thirdPart": "Proc. IEEE/ACM International Parallel & Distributed Processing Symposium PMEO-PDS (Performance Modeling, Evaluation, and Optimization of Parallel and Distributed Systems) Workshop, April 15-19, 2005, Denver, Colorado, U.S.A"
+  },
+  {
+    "firstPart": "M. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "A constraint-based performance comparison of hypercube and star multicomputers with failures",
+    "thirdPart": "Proceedings of 19th IEEE International Conf. on Applied Information Networking and Applications (AINA'2005), March 28-30, 2005, Taiwan, pp. 841-846"
+  },
+  {
+    "firstPart": "M. H. Farahabadi, H. Sarbazi-Azad",
+    "secondPart": "On the pancyclicity and Hamiltonian connectedness of pyramids",
+    "thirdPart": "Proceedings of IASTED International Conference on Networks and Communication Systems, April 18 -21, 2005, Krabi, Thailand"
+  },
+  {
+    "firstPart": "M. H. Farahabadi, H. Sarbazi-Azad",
+    "secondPart": "On the Hamiltonian properties of OTIS networks",
+    "thirdPart": "Proceedings of IASTED International Conference on Networks and Communication Systems, April 18 -21, 2005, Krabi, Thailand"
+  },
+  {
+    "firstPart": "M. H. Farahabadi, H. Sarbazi-Azad, H. H. Najaf-abadi",
+    "secondPart": "The recursive transpose-connected cycles (RTCC) interconnection network for multiprocessors",
+    "thirdPart": "Proceedings of the ACM International Symposium on Applied Computing, March 13 -17, 2005, Santa Fe, New Mexico, U.S.A"
+  },
+  {
+    "firstPart": "M. Monemizadeh, H. Sarbazi-Azad",
+    "secondPart": "The necklace-hypercube: a well scalable hypercube-based interconnection network for multiprocessors",
+    "thirdPart": "Proceedings of the ACM International Symposium on Applied Computing, March 13 -17, 2005, Santa Fe, New Mexico, U.S.A"
+  },
+  {
+    "firstPart": "H. Tajozzakerin, H. Sarbazi-Azad",
+    "secondPart": "The enhanced-star: a new topology based on the star graph",
+    "thirdPart": "Proceedings of the International Symposium on Parallel and Distributed Processing and Applications (ISPA'2004), Lecture Notes in Computer Science, Dec. 13 -15, 2004, Hong Kong, pp. 1030-1038"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad, P. Rajabzadeh",
+    "secondPart": "Performance modeling of fully adaptive wormhole routing in 2D mesh-connected multiprocessors",
+    "thirdPart": "Proceedings of the IEEE/ACM International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS'04), Oct. 5 -7, 2004, Volendam, The Netherlands, pp. 528-534"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "An accurate combinatorial model for performance prediction of deterministic wormhole routing in torus multicomputer systems",
+    "thirdPart": "Proceedings of IEEE International Conf. on Computer Design (IEEE ICCD'04), Oct. 25 - 29, 2004, San Jose, CA, USA, pp. 548-553"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "The effect of adaptivity on the performance of the OTIS-hypercube under different traffic patterns",
+    "thirdPart": "Proceedings of IFIP International Conference on Network and Parallel Computing (IFIP NPC'2004), Lecture Notes in Computer Science, October 18-20, 2004, Wuhan, China, pp. 390-398"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Comparative evaluation of adaptive and deterministic routing in the OTIS-hypercube",
+    "thirdPart": "Proceedings of Ninth Asia-Pacific Computer Systems Architecture Conference, Lecture Notes in Computer Science, September 7-9, 2004, Beijing, China, pp.349-362"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Routing capability and performance of cubical OTIS Networks",
+    "thirdPart": "Proceedings of International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS'04), July 25 - 29, 2004, San Jose, CA, USA, pp. 130-134"
+  },
+  {
+    "firstPart": "H. R. Zarandi, S.G. Miremadi, H. Sarbazi-Azad",
+    "secondPart": "Fault detection enhancement in cache memories using a high-performance placement algorithm",
+    "thirdPart": "Proceedings of 10th IEEE International On-Line testing Symposium, July 12-14, 2004, Madeira Island, Portugal"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad",
+    "secondPart": "On some combinatorial properties of meshes",
+    "thirdPart": "Proceedings of IEEE International Symposium on Parallel Architectures and Networks (IEEE I-SPAN'2004), May 10-12, 2004, Hong Kong, pp. 117-122"
+  },
+  {
+    "firstPart": "H. R. Zarandi, H. Sarbazi-Azad",
+    "secondPart": "An efficient fault-tolerant routing algorithm in hypercubes with dynamic faults",
+    "thirdPart": "Proceedings of CSICC'2004, Feb. 14-17, 2004, Tehran, Iran"
+  },
+  {
+    "firstPart": "R. Rezazaad, H. Sarbazi-Azad",
+    "secondPart": "Fault-tolerant routing in the star graph",
+    "thirdPart": "Proceedings of 18th IEEE International Conf. on Applied Information Networking and Applications (AINA'2004), Vol. 2, pp. 503-506, March 29-31, 2004, Fukuoka, Japan"
+  },
+  {
+    "firstPart": "A. Masoudnia, H. Sarbazi-Azad, S. Boussakta",
+    "secondPart": "A BTC-based technique for improving image compression",
+    "thirdPart": "Proceedings of 10th IEEE International Conf. on Electronics, Circuits, and Systems (IEEE ICECS'2003), December 14-17, 2003, Sharjah, U.A.E., pp. 106-109"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Khonsari",
+    "secondPart": "A class of ball-and-bin problems and its application to mesh networks",
+    "thirdPart": "Proceedings of 10th IEEE International Conf. On Electronics, Circuits, and Systems (IEEE ICECS'2003), December 14-17, 2003, Sharjah, U.A.E., pp. 1101-1104"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "A comparative analysis of deadlock recovery and avoidance-based routing algorithms in wormhole-switched k-ary n-cubes",
+    "thirdPart": "Proc. Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS'2002), July 14-18, 2002, San Diego, California, U.S.A., pp. 305-311"
+  },
+  {
+    "firstPart": "M. Jamieson, H. Sarbazi-Azad",
+    "secondPart": "Cold collisions of Rb and Cs atoms",
+    "thirdPart": "(Poster paper) 18th Intl. Conf. Atomic Physics, 28 July-2 Aug. 2002, Cambridge, MA, U.S.A"
+  },
+  {
+    "firstPart": "M. Jamieson, H. Sarbazi-Azad",
+    "secondPart": "Corrections to scattering data from cold collisions",
+    "thirdPart": "(Poster paper), 18th Intl. Conf. Atomic Physics, 28 July-2 Aug. 2002, Cambridge, MA, U.S.A"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "Comparative analysis of adaptive wormhole routing in tori and hypercubes in the presence of hotspot traffic",
+    "thirdPart": "Proc. IEEE & ACM Int. Parallel & Distributed Processing Symposium PMOE-PDS Workshop, April 15-19, 2002, Fort Lauderdale, Florida, U.S.A"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "A new cost model for performance comparison of interconnection networks using adaptive wormhole routing",
+    "thirdPart": "Proc. IASTED Int'l Symposium on Parallel and Distributed Computing and Networks (PDCN'2002), 18-21 Feb., 2002, Innsbruck, Austria, ACTA Press, pp. 314-319"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "A simple mathematical model of adaptive routing in wormhole k-ary n-cubes",
+    "thirdPart": "Proc. ACM SAC'2002, 10-14 March, 2002, Madrid, Spain, pp. 835-839"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Khonsari",
+    "secondPart": "On the problem of distributing objects in cells with different capacities",
+    "thirdPart": "Proc. International Conference on Algorithms Theory, Discrete Mathematics, Systems and Control, December 17-21, 2001, Cairns, Queensland, Australia, also in V.V. Kluev, N.E. Mastorakis (Editors), Topics in Applied and Theoretical Mathematics and Computer Science, WSEAS Press, 2001, ISBN: 960-8052-47-6, pp.155-157"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "An analytical model of adaptive wormhole routing with time out in hypercubes",
+    "thirdPart": "Proc. of UKPEW'2001, July 18-19, 2001, Leeds, U.K., pp. 227-237"
+  },
+  {
+    "firstPart": "A. Masoudnia, H. Sarbazi-Azad, S. Bousakta",
+    "secondPart": "A FIFO-based architecture for high speed image compression",
+    "thirdPart": "Proc. the 8th IEEE International Conference on Electronics, Circuits and Systems (ICECS 2001), 2-5 September, 2001, Malta, Vol.1, pp.186-188"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Analysis of timeout-based adaptive wormhole routing",
+    "thirdPart": "Proc. 9th IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (IEEE MASCOTS'2001), IEEE Computer Society Press, 15-18 Aug., 2001, Cincinnati, Ohio, U.S.A"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Analysis of true fully adaptive routing with software-based deadlock recovery",
+    "thirdPart": "Proc. of International Conference on Parallel Processing (ICPP2001), 3-7 September, 2001, Valencia, Spain, pp. 393-400"
+  },
+  {
+    "firstPart": "A. Masoudnia, H. Sarbazi-Azad, S. Bousakta",
+    "secondPart": "High performance wavelet image compression",
+    "thirdPart": "Proc. IEEE Int'l Symposium on Communication Theory and Applications (ISCTA2001), 15-20 July, 2001, Ambleside, Cumbria, UK, pp. 142-145"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie, S. G. Akl",
+    "secondPart": "On some properties of k-ary n-cubes",
+    "thirdPart": "Proc. IEEE Int'l Conf. Parallel and Distributed Systems (ICPADS2001), 26-29 June, 2001, KyongJu City, Korea, pp. 517-524"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Khonsari, M. Ould-Khaoua",
+    "secondPart": "Analysis of deterministic routing in k-ary n-cubes with virtual channels",
+    "thirdPart": "Proc. IEEE Int'l Conf. Parallel and Distributed Systems (ICPADS2001), 26-29 June, 2001, KyongJu City, Korea, pp. 509-516"
+  },
+  {
+    "firstPart": "A. Masoudnia, H. Sarbazi-Azad, S. Boussakta",
+    "secondPart": "A fine-grain pipeline-parallel wavelet image compression system",
+    "thirdPart": "Proc. IEEE Int'l Conference on Telecommunication (ICT2001), 4-7 June, 2001, Bucharest, Romania"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-khaoua",
+    "secondPart": "A performance model of true fully adaptive routing in hypercubes",
+    "thirdPart": "Proc. 15th Annual International Symposium on High Performance Computing Systems and Applications (HPCS 2001), 18-20 June, 2001 Windsor, Ontario, Canada"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, K. Day, L.M. Mackenzie",
+    "secondPart": "On the Hamiltonicity of k-ary n-cube interconnection networks",
+    "thirdPart": "Proc. 13th Joint Symposium on Parallel Processing (JSPP2001), Kyoto, Japan, June 5-8, 2001, pp. 221-227"
+  },
+  {
+    "firstPart": "G. Min, M. Ould-Khaoua, H. Sarbazi-Azad",
+    "secondPart": "Communication delay in circuit-switched interconnection networks",
+    "thirdPart": "Proc. 20th IEEE Int. Performance, Computing, and Communications Conference (IEEE-IPCCC 2001), Phoenix, Arizona, April 4-6, 2001, pp. 51-56"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "An analytic model for communication latency in wormhole-switched k-ary n-cube interconnection networks with digit-reversal traffic",
+    "thirdPart": "Proc. International Symposium on High Performance Computing (ISHPC2K), Tokyo, Japan, Oct.16-18, 2000, LNCS 1940, Springer-Verlag Berlin Heidelberg, 2000, pp. 218-229"
+  },
+  {
+    "firstPart": "G. Min, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Modelling of pipelined circuit switching in multicomputer networks",
+    "thirdPart": "Proc. 8th IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (IEEE-MASCOTS '2000), IEEE Computer Society Press, San Francisco, U.S.A., Aug.29-Sep.1, 2000, pp. 299-306"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "A performance model of adaptive routing in k-ary n-cubes with matrix-transpose traffic",
+    "thirdPart": "Proc. of International Conference on Parallel Processing (ICPP2000), IEEE Computer Society Press, Toronto, Canada, August 21-24, 2000, pp. 345-352"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "Performance analysis of k-ary n-cubes with fully adaptive routing",
+    "thirdPart": "Proc. of IEEE 7th International Conference on Parallel and Distributed Systems (ICPADS2000), IEEE Computer Society Press, Iwate, Japan, July 4-7, 2000, pp. 249-255"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "The effect of the number of virtual channels on the performance of wormhole-routed mesh interconnection networks",
+    "thirdPart": "Proc. of UKPEW'2000, July 24-25, 2000, Durham, U.K., pp. 95-102"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua, G. Min",
+    "secondPart": "An efficient parallel algorithm for Lagrange interpolation and its performance",
+    "thirdPart": "Proc. of HPC-Asia 2000, IEEE Computer Society Press, Beijing, China, May 14-17, 2000, pp. 593-598"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "Performance modeling of adaptive wormhole-routed multicomputers with hot-spot traffic",
+    "thirdPart": "Proc. of CSICC'2000, March 7-9, 2000, Tehran, Iran, pp. 69-77"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie, S. Akl",
+    "secondPart": "Parallel Lagrange interpolation on the star",
+    "thirdPart": "Proc. IEEE & ACM Int. Parallel & Distributed Processing Symposium (IPDPS'2000), IEEE Computer Society Press, Cancun, Mexico, May 1-5, 2000, pp. 777-782"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "An analytical model of fully-adaptive wormhole-routed k-ary n-cubes in the presence of hot-spot traffic",
+    "thirdPart": "Proc. IEEE & ACM Int. Parallel & Distributed Processing Symposium (IPDPS'2000), IEEE Computer Society Press, Cancun, Mexico, May 1-5, 2000, pp. 605-610"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "Hot spot analysis in wormhole-routed tori",
+    "thirdPart": "Proc. 19th IEEE Int. Performance, Computing, and Communications Conference (IEEE-IPCCC'2000), IEEE Press, Phoenix, Arizona, U.S.A., Feb. 20-22, 2000, pp. 337-343"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "A parallel algorithm for Lagrange interpolation on k-ary n-cubes",
+    "thirdPart": "Proc. 4th Int. Conf. of the Austrian Centre for Parallel Computation (ACPC'99), Lecture Notes in Computer Science 1557, Springer-Verlag, Salzburg, Austria, Feb. 16 - 18, 1999, pp. 85-95"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "Employing the torus and hypercube for parallel Lagrange interpolation",
+    "thirdPart": "Proc. Fourth Int'l Computer Conference of the Computer Society of Iran CSICC'98, Tehran, Iran, 1998, pp. 140-145"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, L.M. Mackenzie, M. Ould-Khaoua",
+    "secondPart": "A parallel algorithm-architecture for Lagrange interpolation",
+    "thirdPart": "Proc. Parallel and Distributed Processing: Techniques and Applications (PDPTA'98), Las Vegas, Nevada, U.S.A., 1998, pp. 1455-1458"
+  },
+  {
+    "firstPart": "A.H. Jahangir, H. Sarbazi-Azad",
+    "secondPart": "VSCOP: a vector-signal coprocessor for educational purposes",
+    "thirdPart": "Proc. High-performance Computing Asia (HPC-Asia'98), Singapore, 1998, pp. 1151-1155"
+  },
+  {
+    "firstPart": "A.H. Jahangir, H. Sarbazi-Azad",
+    "secondPart": "Clustering mixed radar signals",
+    "thirdPart": "Proc. Fifth International Conf. on Electrical Eng. of Iran (ICEE'96), Sharif University of Technology, Tehran, Iran, 1996"
+  },
+  {
+    "firstPart": "Proc. Fifth International Conf. on Electrical Eng. of Iran (ICEE'96), Sharif University of Technology, Tehran, Iran, 1996",
+    "secondPart": " The design and Implementation of a coprocessor for 8088 microprocessor",
+    "thirdPart": "Proc. Second Annual Computer Conference of Iran, Iran University of Science and Technology, Tehran, Iran, 1994"
+  }
+]

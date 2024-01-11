@@ -1,0 +1,57 @@
+[
+  {
+    "title": "GPU Architecture",
+    "alumni": [
+      "Mohammad Sadrossadati(PhD)",
+      "Negin Mahani(PhD)",
+      "Saba Mostofi(MSc)",
+      "Rahil Barati(MSc)",
+      "Marziyeh Barkhordar(MSc)",
+      "Maedeh Rostamnezhad(MSc)",
+      "Saeideh Baneshi(MSc)"
+    ],
+    "currentStudents": [
+      "Atiyeh Gheibi-Fetrat(MSc)",
+      "Ahmad Javadi-Nezhad(MSc)",
+      "Ali Mohammadpur Fard(MSc)",
+      "Masoud Mohammadi Lak(MSc)",
+      "Tayebeh Younesi(MSc)",
+      "Amir Mohammad Biuki(MSc)",
+      "Zahra Mirzaei(MSc)"
+    ]
+  },
+  {
+    "title": "Machine Learning",
+    "alumni": [
+      "Ehsan Aghapoor(MSc)",
+      "Faraz Tahmasebi(MSc)",
+      "Fardin Dadashi(MSc)"
+    ],
+    "currentStudents": ["Seyed Saman Mohseni Sangtabi(MSc)"]
+  },
+  {
+    "title": "Memory System",
+    "alumni": [
+      "Sina Darabi(PhD)",
+      "Seyed Mahdi Ebrahimi(MSc)",
+      "Fateme Golshan(MSc)",
+      "Ali Ansari(MSc)"
+    ],
+    "currentStudents": []
+  },
+  {
+    "title": "Non-Volatile Memory",
+    "alumni": [],
+    "currentStudents": ["Negar Akbarzadeh(PhD)", "Armin Ahmadzadeh(PhD)"]
+  },
+  {
+    "title": "Storage Systems",
+    "alumni": ["Arghavan Mohammadhassani(MSc)", "Elmira Pishyar(MSc)"],
+    "currentStudents": ["Maedeh Safari(PhD)"]
+  },
+  {
+    "title": "NoC",
+    "alumni": [],
+    "currentStudents": ["Atiyeh Gheibi-Fetrat(MSc)"]
+  }
+]

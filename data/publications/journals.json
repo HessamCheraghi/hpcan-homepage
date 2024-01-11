@@ -1,0 +1,702 @@
+[
+  {
+    "firstPart": "A. Gheibi-Fetrat, N. Akbarzadeh, S. Hessabi, H. Sarbazi-Azad",
+    "secondPart": "Tulip: Turn-Free Low-Power Network-on-Chips",
+    "thirdPart": " IEEE Computer Architecture Letterrs, pp. 1-4, 2023"
+  },
+  {
+    "firstPart": "S. Darabi, E. Yousefzadeh, N. Akbarzadeh, H. Falahati, P. Lotfi-Kamran, M. Sadrosadati, H. Sarbazi-Azad",
+    "secondPart": "OSM: Off-chip shared memory for GPUs",
+    "thirdPart": "IEEE Transactions on Parallel and Distributed Systems, Vol. 33, No. 12, pp. 3415-3429, 2022"
+  },
+  {
+    "firstPart": "M. Tarihi, S. Azadvar, A. Tavakkol, H. Asadi, H. Sarbazi-Azad",
+    "secondPart": "Quick generation of SSD performance models using machine learning",
+    "thirdPart": "IEEE Transactions on Emerging Topics in Computing, to appear"
+  },
+  {
+    "firstPart": "S. Hossein-Ghorban, F. Baharifard, B. Hessan, M. Zarei, H. Sarbazi-Azad",
+    "secondPart": "Linearization error in synchronization of Kuramoto oscillators",
+    "thirdPart": "Applied Mathematics and Computation, Vol. 411, p. 126464, 2021"
+  },
+  {
+    "firstPart": "H. Falahati, M. Peyro, H. Amini, M. Taghian, M. Sadrosadati, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Data-aware compression of neural networks",
+    "thirdPart": "IEEE Computer Architecture Letterrs, Vol. 20, No. 2, pp. 94-97, 2021"
+  },
+  {
+    "firstPart": "M. Sadrosadati, A. Mirhosseini, A. Hajiabadi, B. Ehsani, H. Falahati, H. Sarbazi-Azad, M. Drumond, B. Falsafi, R. Ausavarungnirun, O. Mutlu",
+    "secondPart": "Highly concurrent latency-tolerant register files for GPUs",
+    "thirdPart": "ACM Transactions on Computer Systems, Vol. 37, No. 1, pp. 1-36, 2021"
+  },
+  {
+    "firstPart": "N. Nematollahi-mahani, M. Sadrosadati, H. Falahati, M. Barkhordar, M.P. Drumond, H. Sarbazi-Azad, B. Falsafi",
+    "secondPart": "Efficient nearest-neighbor data sharing in GPUs",
+    "thirdPart": "ACM Transactions on Architecture and Code Optimization, Vol. 18, No. 1, pp. 1-26, 2021"
+  },
+  {
+    "firstPart": "F. Golshan, M. Bakhshalipour, M. Shakernia, A. Ansari, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Code harnessing pairwise-correlating data prefetching with runahead metadata",
+    "thirdPart": "IEEE Computer Architecture Letters, Vol. 19, No. 2, pp. 130-133, 2020"
+  },
+  {
+    "firstPart": "A. Monemi, F. Khunjush, M. Palesi, H. Sarbazi-Azad",
+    "secondPart": "An enhanced dynamic weighted incremental technique for QoS support in NoC",
+    "thirdPart": "ACM Transactions on Parallel Computing, Vol. 7, No. 2, pp. 9:1-9:31, 2020"
+  },
+  {
+    "firstPart": "A. Ansari, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Code layout optimization for near-ideal instruction cache",
+    "thirdPart": "IEEE Computer Architecture Letters, Vol. 18, No. 2, pp. 124-127, 2019"
+  },
+  {
+    "firstPart": "F. Mireshaghallah, M. Bakhshalipour, M. Sadrosadati, H. Sarbazi-Azad",
+    "secondPart": "Energy-efficient permanent fault tolerance in hard real-time systems",
+    "thirdPart": "IEEE Transactions on Computers, Vol. 68, No. 10, pp. 1539-1545, 2019"
+  },
+  {
+    "firstPart": "S. Rashidi, M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "A survey on PCM lifetime enhancement schemes",
+    "thirdPart": "ACM Computing Surveys, Vol. 52, No. 4, pp. 76:1-76:38, 2019"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, S. Tabaeiaghdaei, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Evaluation of hardware data prefetchers on server processors",
+    "thirdPart": "ACM Computing Surveys, Vol. 52, No. 3, pp. 52:1-52:29, 2019"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, A. Faraji, S. A. Vakil Ghahani, F. Samandi, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Reducing writebacks through in-cache displacement",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 24, No. 2, pp. 16:1-16:21, 2019"
+  },
+  {
+    "firstPart": "M. Sadrosadati, S. B. Ehsani, H. Falahati, R. Ausavarungnirun, A. Tavakkol, M. Abaee, L. Orosa, Y. Wang, H. Sarbazi-Azad, O. Mutlu",
+    "secondPart": "ITAP: Idle-time-aware power management for GPU execution units",
+    "thirdPart": "ACM Transactions on Architecture and Code Optimization, Vol. 16, No. 1, pp. 3:1-3:26, 2019"
+  },
+  {
+    "firstPart": "M. Rezaei-Mayahi, M. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "Temperature-aware power consumption modeling in hyperscale cloud data centers",
+    "thirdPart": "Future Generation Computer Systems, Vol. 94, pp. 130-139, 2019"
+  },
+  {
+    "firstPart": "N. Nematollahi, M. Sadrosadati, H. Falahati, M. Barkhordar, H. Sarbazi-Azad, Neda",
+    "secondPart": "Supporting direct inter-core neighbor data exchange in GPUs",
+    "thirdPart": "Computer Architecture Letters, Vol. 17, No. 2, pp. 225-229, 2018"
+  },
+  {
+    "firstPart": "A. Mirhosseini, M. Sadrosadati, F. Aghamohammadi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "BARAN: Bimodal adaptive reconfigurable-allocator network-on-chip",
+    "thirdPart": "ACM Transactions on Parallel Computing, Vol. 5, No. 3, pp. 11:1-11:29, 2018"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, P. Lotfi-Kamran, A. Mazloumi, F. Samandi, M. Naderan-Tahan, M. Modarresi, and H. Sarbazi-Azad",
+    "secondPart": "Fast data delivery for many-core processors",
+    "thirdPart": "IEEE Transactions on Computers, Vol. 67, No. 10, pp. 1416-1429, 2018"
+  },
+  {
+    "firstPart": "S. Rashidi, M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Improving MLC PCM performance through relaxed write and read for intermediate resistance levels",
+    "thirdPart": "ACM Transactions on Architecture and Code Optimization, Vol. 15, No. 1, pp. 12:1-12:31, 2018"
+  },
+  {
+    "firstPart": "M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Express read in MLC phase change memories",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 23, No. 3, pp. 33:1-33:24, 2018"
+  },
+  {
+    "firstPart": "M. Naderan, H. Sarbazi-Azad",
+    "secondPart": "Domino cache: an energy eﬀicient data cache for modern applications",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 23, No. 3, pp. 31:1-31:23, 2018"
+  },
+  {
+    "firstPart": "A. Vakil-Ghahani, S. Mahdizadeh-Shahri, M.-R. Lotfi-Namin, M. Bakhshalipour, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "Cache replacement policy based on expected hit count",
+    "thirdPart": "IEEE Computer Architecture Letters, Vol. 17, No. 1, pp. 64-67, 2018"
+  },
+  {
+    "firstPart": "D. Rahmati, H. Sarbazi-Azad",
+    "secondPart": "Classified round robin: a simple prioritized arbitration to equip best effort NoCs with effective hard QoS",
+    "thirdPart": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 37, No. 1, pp. 257-269, 2018"
+  },
+  {
+    "firstPart": "M. Bakhshalipour, P. Lotfi-Kamran, H. Sarbazi-Azad",
+    "secondPart": "An efficient temporal data prefetcher for L1 caches",
+    "thirdPart": "IEEE Computer Architecture Letters, Vol. 16, No. 2, pp. 99-102, 2017"
+  },
+  {
+    "firstPart": "M. Hoveida, F. Agha-aliakbari, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Efficient mapping of applications for future chip-multiprocessors in dark-silicon era",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 22, No. 4, pp. 70:1-70:26, 2017"
+  },
+  {
+    "firstPart": "M. Jalili, H. Sarbazi-Azad",
+    "secondPart": "Endurance-aware security enhancement in non-volatile memories using compression and selective encryption",
+    "thirdPart": "IEEE Transaction on Computers, Vol. 66, No. 7, pp. 1132-1144, 2017"
+  },
+  {
+    "firstPart": "H. Abbasitabar, M.H. Samavatian, H. Sarbazi-Azad",
+    "secondPart": "ASHA: an adaptive shared-memory sharing architecture for multi-programmed GPUs",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 46, pp. 264-273, 2016"
+  },
+  {
+    "firstPart": "P. Mehrvarzy, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Power-and performance-efficient cluster-based network-on-chip with reconfigurable topology",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 46, pp. 122-135, 2016"
+  },
+  {
+    "firstPart": "A. Tavakkol, P. Mehrvarzy, H. Sarbazi-Azad",
+    "secondPart": "TBM: Twin block management policy to enhance the utilization of plane-level parallelism in SSDs",
+    "thirdPart": " IEEE Computer Architecture Letters, Vol. 15, No. 2, pp. 121-124, 2016"
+  },
+  {
+    "firstPart": "P. Zardoshti, F. Khunjush, H. Sarbazi-Azad",
+    "secondPart": "Adaptive sparse matrix representation for efficient matrix-vector multiplication",
+    "thirdPart": "Journal of Supercomputing, Vol. 72, No. 9, pp. 3366-3386, 2016"
+  },
+  {
+    "firstPart": "F. Nasiri, H. Sarbazi-Azad, A. Khademzadeh",
+    "secondPart": "Reconfigurable multicast routing for networks-on-chip",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 42, pp. 180-189, 2016"
+  },
+  {
+    "firstPart": "M. Naderan, H. Sarbazi-Azad",
+    "secondPart": "Why does data prefetching not work for modern workloads?",
+    "thirdPart": "The Computer Journal, Vol. 59, No. 2, pp. 244-259, 2016"
+  },
+  {
+    "firstPart": "M. Hosseinzadeh, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "SPCM: The striped phase change memory",
+    "thirdPart": "ACM Transactions on Computer Architecture and Code Optimization, Vol. 12, No. 4, p. 38, 2016"
+  },
+  {
+    "firstPart": "P. Lotfi-Kamran, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "An efficient hybrid-switched network-on-chip for chip multiprocessors",
+    "thirdPart": "IEEE Transaction on Computers, Vol. 65, No. 5, pp. 1656-1662, 2016"
+  },
+  {
+    "firstPart": "A. Tavakkol, P. Mehrvarzi, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Performance evaluation of dynamic page allocation strategies in SSDs",
+    "thirdPart": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems, Vol. 1, No. 2, pp. 442-458, 2016"
+  },
+  {
+    "firstPart": "M. Tarihi, H. Asadi, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "A hybrid non-volatile cache design for solid-state drives using comprehensive I/O characterization",
+    "thirdPart": "IEEE Transaction on Computers, Vol. 65, No. 6, pp. 1678-1691, 2016"
+  },
+  {
+    "firstPart": "M.R. Jokar, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Sequoia: A high-endurance NVM-based cache architecture",
+    "thirdPart": "IEEE Transactions on VLSI Systems, Vol. 24, No. 3, pp. 954-967, 2016"
+  },
+  {
+    "firstPart": "A. Sheshbolouki, M. Zarei, H. Sarbazi-Azad",
+    "secondPart": "The role of leadership in synchronization of directed complex networks",
+    "thirdPart": "Journal of Statistical Mechanics, pp. 10022-10039, 2015"
+  },
+  {
+    "firstPart": "A. Sheshbolouki, M. Zarei, H. Sarbazi-Azad",
+    "secondPart": "Are feedback loops destructive to synchronization?",
+    "thirdPart": "European Physics Letters, Vol. 111, No. 4, pp. 40010-40016, 2015"
+  },
+  {
+    "firstPart": "M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "Leveraging dark silicon to optimize networks-on-chip topology",
+    "thirdPart": "Journal of Supercomputing, Vol. 71, No. 9, pp. 3549-3566, 2015"
+  },
+  {
+    "firstPart": "M. H. Samavatian, M. Arjomand, R. Bashizadeh, H. Sarbazi-Azad",
+    "secondPart": "Architecting the last-level cache for GPUs using STT-RAM technology",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 20, No. 4, pp. 55, 2015"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Variable resistance spectrum assignment in phase change memory systems",
+    "thirdPart": "IEEE Transactions on VLSI Systems, Vol. 23, No. 11, pp. 2657-2670, 2015"
+  },
+  {
+    "firstPart": "R. Bashizadeh, H. Sarbazi-azad",
+    "secondPart": "P2R2: parallel pseudo-round-robin arbiter for high performance NoCs",
+    "thirdPart": "Integration, the VLSI Journal, Vol. 50, pp. 173-182, 2015"
+  },
+  {
+    "firstPart": "M. Modarressi, N. Teimouri, H. Sarbazi-azad",
+    "secondPart": "Improving the performance of packet-switched networks-on-chip by SDM-based adaptive shortcut paths",
+    "thirdPart": "Integration, the VLSI Journal, Vol. 50, pp. 193-204, 2015"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Prolonging lifetime of PCM-based main memories through on-demand page pairing",
+    "thirdPart": "ACM Transactions on Design Automation of Electronic Systems, Vol. 20, No. 2, pp. 23-37, 2015"
+  },
+  {
+    "firstPart": "M. Tarihi, H. Asadi, H. Sarbazi-Azad",
+    "secondPart": "DiskAccel: accelerating disk-based experiments by representative sampling",
+    "thirdPart": "ACM Performance Evaluation Review, Vol. 42, No. 1, pp. 551-552, 2014"
+  },
+  {
+    "firstPart": "A. Tavakkol, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Unleashing the potentials of dynamism for page allocation strategies in SSDs",
+    "thirdPart": "ACM Performance Evaluation Review, Vol. 42, No. 1, pp. 551-552, 2014"
+  },
+  {
+    "firstPart": "M. Naderan, H. Sarbazi-Azad",
+    "secondPart": "Adaptive prefetching using global history buffer in multicore processors",
+    "thirdPart": "Journal of Supercomputing, Vol.68, No.3, pp.1302-1320, 2014"
+  },
+  {
+    "firstPart": "M. Arjomand, A. Boroumand, H. Sarbazi-Azad",
+    "secondPart": "A generic FPGA prototype for on-chip systems with network-on-chip communication infrastructure",
+    "thirdPart": "Computers and Electrical Engineering, Vol. 40, No. 1, pp. 158-167, 2014"
+  },
+  {
+    "firstPart": "A. Reza, H. Sarbazi-Azad, A. Khademzadeh, H. Shabani, B. Niazmand",
+    "secondPart": "A loss aware scalable topology for photonic on chip interconnection networks",
+    "thirdPart": "Journal of Supercomputing, Vol. 68, No. 1, pp. 106-135, 2014"
+  },
+  {
+    "firstPart": "M. Modarressi, M. Asadinia, H. Sarbazi-Azad",
+    "secondPart": "Using task migration to improve non-contiguous processor allocation in NoC-based CMPs",
+    "thirdPart": "Journal of Systems Architecture, Vol. 59, No. 7, pp. 468-481, 2013"
+  },
+  {
+    "firstPart": "P. Khadem Hamedani, N. Enright Jerger, S. Hessabi, H. Sarbazi-Azad",
+    "secondPart": "Exploration of temperature constraints for thermal-aware mapping of 3D networks-on-chip",
+    "thirdPart": "International Journal of Adaptive, Resilient and Autonomic Systems, Vol. 4, No. 3, pp. 42-60, 2013"
+  },
+  {
+    "firstPart": "H. R. Zarandi, H. Sarbazi-Azad, M. Fazeli",
+    "secondPart": "A parallel clustering algorithm on the star graph",
+    "thirdPart": "Mathematical and Computer Modelling, Vol. 58, No. 3-4, pp. 886-897, 2013"
+  },
+  {
+    "firstPart": "A. Tavakkol, M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "NoSSD: A scalable and high-performance communication design paradigm for SSDs",
+    "thirdPart": "IEEE Computer Architecture Letters, Vol. 12, No. 1, pp. 5-8, 2013"
+  },
+  {
+    "firstPart": "C. Seiculescu, D. Rahmati, M. Srinivasan, H. Sarbazi-Azad, L. Benini, G. De Micheli",
+    "secondPart": "Designing best effort networks-on-chip to meet hard latency constraints",
+    "thirdPart": "ACM Transactions on Embedded Computing Systems, Vol. 12, No. 4, pp. 108-122, 2013"
+  },
+  {
+    "firstPart": "D. Rahmati, S. Murali, L. Benini, F. Angiolini, G. De Micheli, H. Sarbazi-Azad",
+    "secondPart": "Computing accurate performance bounds for best effort networks-on-chip",
+    "thirdPart": "IEEE Transactions on Computers, Vol. 62, No. 3, pp. 452-467, 2013"
+  },
+  {
+    "firstPart": "M. Arjomand, S. H. Amiri, H. Sarbazi-Azad",
+    "secondPart": "Task mapping on regular networks-on-chip using genetic algorithms",
+    "thirdPart": "Journal of Computers and System Sciences, Vol. 79, No. 4, pp. 492-513, 2013"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Optimum hello interval for a connected homogeneous topology in mobile wireless sensor networks",
+    "thirdPart": "Telecommunication Systems, Vol. 52, No. 4, pp. 2475-2488, 2013"
+  },
+  {
+    "firstPart": "M. Asadinia, M. Modarressi, A. Tavakkol, H. Sarbazi-Azad",
+    "secondPart": "Supporting non-contiguous processor allocation in mesh-based CMPs using virtual point-to-point links",
+    "thirdPart": "IET Computers &Digital Techniques,Vol. 6, No. 5, pp. 302-317, 2012"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Analysis of link lifetime in wireless mobile networks",
+    "thirdPart": "Ad Hoc Networks, Vol. 10, No. 7, pp. 1221-1237, 2012"
+  },
+  {
+    "firstPart": "D. Rahmati, H. Sarbazi-Azad, S. Hessabi, A. E. Kiasari",
+    "secondPart": "Power-efficient deterministic and adaptive routing in torus networks-on-chip",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 36, No. 7, pp. 571-585, 2012"
+  },
+  {
+    "firstPart": "N. Najjari, H. Sarbazi-Azad",
+    "secondPart": "Application specific router architectures for NoCs: an efficiency and power consumption analysis",
+    "thirdPart": "Mechatronics, Vol. 22, No. 5, pp. 531-537, 2012"
+  },
+  {
+    "firstPart": "M. A. Kharraz, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "On-demand multicast routing protocol with efficient route discovery",
+    "thirdPart": "Journal of Network and Computer Applications, Vol. 35, No. 3, pp. 942-950, 2012"
+  },
+  {
+    "firstPart": "M. Modarressi, A. Tavakkol, H. Sarbazi-Azad",
+    "secondPart": "Application-aware topology reconfiguration for on-chip networks",
+    "thirdPart": "IEEE Transactions on VLSI Systems, Vol. 19, No. 11, pp. 2010-2022, 2011"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Performance modeling of the LEACH protocol for mobile wireless sensor networks",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol.71, No.6, pp. 812-821, June 2011"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad, A. Nayebi, K. Navi",
+    "secondPart": "Modeling the effects of hot-spot traffic load on the performance of wormhole-switched hypermeshes",
+    "thirdPart": " Computers and Electrical Engineering, Vol. 37, No. 1, pp. 1-23, 2011"
+  },
+  {
+    "firstPart": "M. Malekimajd, M. R. Hosseiny, A. Movaghar, H. Sarbazi-Azad",
+    "secondPart": "Pancyclicity of OTIS (swapped) networks based on properties of the factor graph",
+    "thirdPart": "Information Processing Letters, Vol. 111, pp. 1114-1119, 2011"
+  },
+  {
+    "firstPart": "A. Nayebi, G. Karlsson, H. Sarbazi-Azad",
+    "secondPart": "Evaluation and design of beaconing in mobile wireless networks",
+    "thirdPart": "Ad Hoc Networks, Vol. 9, No. 3, pp. 368-386, 2011"
+  },
+  {
+    "firstPart": "T. Shafiee, M. R. Hosseiny, A. Movaghar, H. Sarbazi-Azad",
+    "secondPart": "On pancyclicity properties of OTIS-mesh",
+    "thirdPart": "Information Processing Letters, Vol. 118, pp. 353-359, 2011"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Performance modeling of Cartesian product networks",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 71, No. 1, pp.105-113, 2011"
+  },
+  {
+    "firstPart": "R. Sabbaghi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "The 2D digraph-based NoCs: attractive alternatives to the 2D mesh NoCs",
+    "thirdPart": "Journal of Supercomputing, DOI 10.1007/s11227-010-0410-6, 2011"
+  },
+  {
+    "firstPart": "A. Bargi, H. Sarbazi-Azad",
+    "secondPart": "Task migration in two-dimensional and three-dimensional meshes",
+    "thirdPart": "Journal of Supercomputing, Vol. 56, No. 3, pp. 328-352, 2011"
+  },
+  {
+    "firstPart": "M. Arjomand, H. Sarbazi-Azad",
+    "secondPart": "Power-performance analysis of networks-on-chip with arbitrary buffer allocation schemes",
+    "thirdPart": "IEEE Transactions on Computer Aided Design for Digital Systems, Vol. 29, No. 10, pp. 1558-1571, 2010"
+  },
+  {
+    "firstPart": "P. Rajabzadeh, H. Sarbazi-Azad, H.R. Zarandi, E. Khodaei, H. Hashemi, M. Ould-khaoua",
+    "secondPart": "Performance modeling of n-dimensional mesh networks",
+    "thirdPart": "Performance Evaluation, Vol. 67, No. 12, pp. 1304-1323, 2010"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad",
+    "secondPart": "Properties of a hierarchical network based on the star graph",
+    "thirdPart": "Information Sciences, Vol. 180, No. 14, pp. 2802-2813, 2010"
+  },
+  {
+    "firstPart": "M. Modarressi, A. Tavakkol, H. Sarbazi-Azad",
+    "secondPart": "Virtual point-to-point connections for NoCs",
+    "thirdPart": "IEEE Transactions on Computer Aided Design for Digital Systems, Vol. 29, No. 6, pp. 855-868, 2010"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad, G. Karlsson",
+    "secondPart": "Performance analysis of opportunistic broadcast for delay-tolerant wireless sensor networks",
+    "thirdPart": "Journal of systems and Software, Vol. 83, No. 8, pp. 1310-1317, 2010"
+  },
+  {
+    "firstPart": "S. Razavi, H. Sarbazi-Azad",
+    "secondPart": "The triangular pyramid: routing and topological properties",
+    "thirdPart": "Information Sciences, Vol. 180, No. 11, pp. 2328-2339, 2010"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, Ahmad Khonsari, M. Ould-Khaoua",
+    "secondPart": "On the topological properties of grid-based interconnection networks: surface area and volume of radial spheres",
+    "thirdPart": "The Computer Journal, Vol. 53, No. 7, pp. 726-738, 2010"
+  },
+  {
+    "firstPart": "R. Moraveji, P. Moinzadeh, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Multi-spanning tree zone-ordered label-based routing algorithms for irregular networks",
+    "thirdPart": "IEEE Transactions on Parallel and Distributed Systems, Vol. 22, No. 5, pp. 817-832, 2011"
+  },
+  {
+    "firstPart": "R. Sabbaghi, M. Modarressi, H. Sarbazi-Azad",
+    "secondPart": "The 2D SEM: a novel high-performance and low-power mesh-based topology for networks-on-chip",
+    "thirdPart": "International Journal of Parallel, Emergent, and Distributed Systems, Vol. 25, No. 4, pp. 331-344, 2010"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Resource placement in Cartesian product of networks",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 70, No. 5, pp. 481-495, 2010"
+  },
+  {
+    "firstPart": "R. Moraveji, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "A general methodology for zone-based routing in irregular newtorks",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 70, No. 4, pp. 363-370, 2010"
+  },
+  {
+    "firstPart": "H. Mahini, H. Sarbazi-Azad",
+    "secondPart": "Resource placement in three-dimensional tori",
+    "thirdPart": "Parallel Computing, Vol. 35, No. 10-11, pp. 533-543, 2009"
+  },
+  {
+    "firstPart": "R. Moraveji, P. Moinzadeh, H. Sarbazi-Azad",
+    "secondPart": "A general mathematical performance model for wormhole-switched irregular networks",
+    "thirdPart": "Cluster Computing, Vol. 12, pp. 285-297, 2009"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya, P. Moinzadeh",
+    "secondPart": "Detecting threats in star graphs",
+    "thirdPart": "IEEE Transactions on Parallel and Distributed Systems, Vol. 20, No. 4, pp. 474-483, 2009"
+  },
+  {
+    "firstPart": "S. Meraji, H. Sarbazi-Azad",
+    "secondPart": "Adaptive routing in wormhole-switched necklace-cubes: analytical modeling and performance comparison",
+    "thirdPart": "Simulation Modeling: Practice and Theory, Vol. 17, pp. 1522-1532, 2009"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, S. G. Akl, P. Moinzadeh",
+    "secondPart": "Chromatic sets of power graphs and their application to resource placement in multicomputer networks",
+    "thirdPart": "Computers and Mathematics with Applications, Vol. 58, pp. 403-413, 2009"
+  },
+  {
+    "firstPart": "A. Nayebi, H. Sarbazi-Azad",
+    "secondPart": "Analysis of k-neigh topology control protocol for mobile wireless networks",
+    "thirdPart": "Computer Networks, Vol. 53, pp. 613-633, 2009"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, S.G. Akl",
+    "secondPart": "Some topological properties of star graphs: the surface area and volume",
+    "thirdPart": "Discrete Mathematics, Vol. 309, pp. 560-569, 2009"
+  },
+  {
+    "firstPart": "M.R. Hoseiny-Farahabadi, N. Imani, H. Sarbazi-Azad",
+    "secondPart": "Some Topological and Combinatorial Properties of WK-Recursive Mesh and WK-Pyramid Interconnection Networks",
+    "thirdPart": "Journal of Systems Architecture Vol. 54, pp. 967-976, 2008"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Intruder capturing in mesh and torus networks",
+    "thirdPart": "International Journal on Foundations of Computer Science, Vol. 19, No. 4, pp. 1049-1071, 2008"
+  },
+  {
+    "firstPart": "A. Mahabadi, H. Sarbazi-Azad, E. Khodaei, K. Navi",
+    "secondPart": "Parallel Lagrange interpolation on k-ary n-cubes with maximum channel utilization",
+    "thirdPart": "Journal of Supercomputing, Vol. 46, No. 1, pp. 1-14, 2008"
+  },
+  {
+    "firstPart": "A. E. Kiasari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "An accurate mathematical performance model of adaptive routing in the star graph",
+    "thirdPart": "Future Generation Computer Systems, Vol. 24, pp. 461-474, 2008"
+  },
+  {
+    "firstPart": "A. Patooghy, H. Sarbazi-Azad",
+    "secondPart": "An accurate mathematical performance model of partially adaptive routing in binary n-cube multiprocessors",
+    "thirdPart": "Mathematical and Computer Modeling, Vol. 48, No. 1, pp. 34-45, 2008"
+  },
+  {
+    "firstPart": "P. Shareghi, H. Sarbazi-Azad",
+    "secondPart": "The stretched network: properties, routing, and performance",
+    "thirdPart": "Journal of Information Science and Engineering, Vol. 24, pp. 361-378, 2008"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Combinatorial performance modelling of toroidal cubes",
+    "thirdPart": "Journal of Systems Architecture, Vol. 54, pp. 241-252, 2008"
+  },
+  {
+    "firstPart": "A. E. Kiasari, H. Sarbazi-Azad",
+    "secondPart": "Analytic performance comparison of hypercubes and star graphs with implementation constraints",
+    "thirdPart": "Journal of Computer and System Sciences, Vol. 74, pp. 1000-1012, 2008"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Mathematical performance modelling of adaptive wormhole routing in optoelectronic hypercubes",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 67, pp. 967-980, 2007"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, A. Zomaya",
+    "secondPart": "Capturing an intruder in product networks",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 67, pp. 1018-1028, 2007"
+  },
+  {
+    "firstPart": "N. Imani, H. Sarbazi-Azad, S. G. Akl",
+    "secondPart": "Perfect load balancing on the star interconnection network",
+    "thirdPart": "The Journal of Supercomputing, Vol. 41, pp. 269-286, 2007"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad, P. Rajabzadeh",
+    "secondPart": "An accurate performance model of fully adaptive routing in wormhole-switched 2D-mesh multicomputers",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 31, pp. 445-455, 2007"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad",
+    "secondPart": "The performance of a synchronous parallel algorithm for extracting the roots of a polynomial",
+    "thirdPart": "Cluster Computing, Vol. 10, No. 2, pp. 167-174, 2007"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "An empirical performance analysis of minimal and non-minimal routing in cube-based OTIS interconnection networks",
+    "thirdPart": "The Journal of High-Speed Networks, Vol. 16, No. 2, pp. 133-155, 2007"
+  },
+  {
+    "firstPart": "A. Patooghy, H. Sarbazi-Azad",
+    "secondPart": "Comparative analytical performance evaluation of adaptivity in wormhole-switched hypercubes",
+    "thirdPart": "Simulation Modeling: Practice and Theory, Vol. 15, No. 4, pp. 400-415, 2007"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Modeling and evaluation of adaptive routing in high-performance n-D tori networks",
+    "thirdPart": "Simulation Modeling: Practice and Theory, Vol. 14, pp. 740-751, 2006"
+  },
+  {
+    "firstPart": "M.R. Hosseiny-farahabadi, H. Sarbazi-Azad",
+    "secondPart": "The gird-pyramid: a generalized pyramid network",
+    "thirdPart": "The Journal of Supercomputing, Vol. 37, pp. 23-45, 2006"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Multicast communication in OTIS-hypercube multicomputer systems",
+    "thirdPart": "International Journal of High-Performance Computing and Networking, Vol. 4, No. 3-4, pp. 161-173, 2006"
+  },
+  {
+    "firstPart": "H. Hashemi-Najafabadi, H. Sarbazi-Azad",
+    "secondPart": "Analytic performance evaluation of OTIS-hypercubes",
+    "thirdPart": "IEICE Transactions on Information and Systems, Vol. E89-D, No.2, pp. 441-451, 2006"
+  },
+  {
+    "firstPart": "A. Masoudnia, H. Sarbazi-Azad, S. Boussakta",
+    "secondPart": "Design and performance of a pixel level pipelined-parallel architecture for high-speed wavelet-based image compression",
+    "thirdPart": "Computers and Electrical Engineering, Vol. 31, No. 3, pp. 572-588, 2005"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "A performance model of software-based deadlock recovery routing algorithm in hypercubes",
+    "thirdPart": "Parallel Processing Letters, Vol. 15, Nos. 1-2, pp. 153-168, 2005"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Constraint-based performance analysis of k-ary n-cube networks",
+    "thirdPart": "International Journal of Computers and their Applications, Vol. 12, No. 2, pp. 83-92, 2005"
+  },
+  {
+    "firstPart": "H.R. Zarandi, H. Sarbazi-Azad",
+    "secondPart": "Hierarchical binary set partitioning in cache memories",
+    "thirdPart": "The Journal of Supercomputing, Vol. 31, No. 2, pp. 185-202, 2005"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "Towards a more realistic comparative analysis of multicomputer networks",
+    "thirdPart": "Computation and Concurrency: Practice and Experience, Vol. 16, No. 13, pp. 1271-1289, 2004"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-khaoua, L. Mackenzie and S.G. Akl",
+    "secondPart": "On some topological properties of k-ary n-cubes",
+    "thirdPart": "Journal of Interconnection Networks, Vol. 5, No. 1, pp. 79-91, 2004"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad",
+    "secondPart": "Constraint-based performance comparison of multi-dimensional interconnection networks with deterministic and adaptive routing strategies",
+    "thirdPart": "Journal of Computers and Electrical Engineering, Vol. 30, No. 3, pp. 167-182, 2004"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Analysis of true fully adaptive routing with software-based deadlock recovery",
+    "thirdPart": "Journal of Systems and Software, Vol. 71, No. 3, pp. 259-270, 2004"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-khaoua, K. Day, and L. Mackenzie",
+    "secondPart": "Algorithmic construction of Hamiltonians in k-ary n-cubes",
+    "thirdPart": "International Journal of Computers and their Applications, Vol. 11, No. 1, pp. 8-17, March 2004"
+  },
+  {
+    "firstPart": "R. Rezazad, H. Sarbazi-Azad",
+    "secondPart": "A routing algorithm for the star interconnection network in the presence of faults",
+    "thirdPart": "CSI Journal on Computer Science & Engineering, Vol. 1, No. 4(b), pp. 11-18, 2003"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad",
+    "secondPart": "A mathematical model of deterministic wormhole routing in hypercube multicomputers using virtual channels",
+    "thirdPart": "Journal of Applied Mathematical Modelling, Vol. 27, No. 12, pp. 943-953, 2003"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "Analytical modelling of wormhole-routed k-ary n-cubes in the presence of matrix-transpose traffic",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 63, pp. 396-409, 2003"
+  },
+  {
+    "firstPart": "M. Jamieson, H. Sarbazi-Azad, H. Ouerdane, G.-H. Jeung, Y. Lee",
+    "secondPart": "Elastic scattering of cold caesium and rubidium atoms",
+    "thirdPart": "Journal of Physics B: Atomic, Molecular and Optical Physics,Vol. 36, pp. 1085-1097, 2003"
+  },
+  {
+    "firstPart": "A. Khonsari, A. Shahrabi, M. Ould-Khaoua, H. Sarbazi-Azad",
+    "secondPart": "Performance comparison of deadlock recovery and deadlock avoidance routing algorithms in wormhole-switched networks",
+    "thirdPart": "IEE Proceedings- Computers & Digital Techniques, Vol. 150, No. 2, pp.86-97, 2003"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Khonsari, M. Ould-Khaoua",
+    "secondPart": "Analysis of k-ary n-cubes with dimension-ordered routing",
+    "thirdPart": "Future Generation Computer Systems, Vol. 19, No. 4, pp. 493-502, 2003"
+  },
+  {
+    "firstPart": "A. Khonsari, H. Sarbazi-Azad, and M. Ould-khaoua",
+    "secondPart": "An analytical model of adaptive wormhole adaptive with time-out",
+    "thirdPart": "Future Generation Computer Systems, Vol. 19, No. 1, pp. 1-12, 2003"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, A. Khonsari, M. Ould-Khaoua",
+    "secondPart": "Performance analysis of deterministic routing in wormhole k-ary n-cubes with virtual channels",
+    "thirdPart": "Journal of Interconnection Networks, Vol. 3, No. 1-2, pp. 67-83, 2002"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-khaoua, L. Mackenzie and S.G. Akl",
+    "secondPart": "A parallel algorithm for Lagrange interpolation on the star graph",
+    "thirdPart": "Journal of Parallel and Distributed Computing, Vol. 62, No. 4, pp. 605-621, 2002"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-khaoua, L. Mackenzie",
+    "secondPart": "A performance model of adaptive wormhole routing in k-ary n-cubes in the presence of digit-reversal traffic",
+    "thirdPart": "Journal of Supercomputing, Vol. 22, No. 2, pp. 139-159, 2002"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "Analytical modelling of wormhole-routed k-ary n-cubes in the presence of hot-spot traffic",
+    "thirdPart": "IEEE Transactions on Computers, Vol. 50, No. 7, pp. 623-634, 2001"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "Communication delay in hypercubes in the presence of bit-reversal traffic",
+    "thirdPart": "Parallel Computing, Vol. 27, No. 13, pp. 1801-1816, 2001"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M Ould-Khaoua, L. M. Mackenzie",
+    "secondPart": "On the performance of adaptive wormhole routing in the bi-directional torus network: A hotspot analysis",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 25, No. 6, pp. 277-285, 2001"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "Employing k-ary n-cubes for parallel Lagrange interpolation",
+    "thirdPart": "Parallel Algorithms and Applications, Vol. 16, pp. 283-299, 2001"
+  },
+  {
+    "firstPart": "S. Loucif, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Message latency in k-ary n-cubes with hop-based routing",
+    "thirdPart": "IEE Proceedings-Computers and Digital Techniques, Vol. 148, No. 2, pp. 89-94, 2001"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "Algorithmic construction of Hamiltonians in pyramids",
+    "thirdPart": "Information Processing Letters, Vol. 80, No. 2, pp. 75-79, 2001"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "An accurate analytical model of adaptive wormhole routing in k-ary n-cube interconnection networks",
+    "thirdPart": "Performance Evaluation, Vol. 43, No. 2-3, pp. 165-179, 2001"
+  },
+  {
+    "firstPart": "M. Ould-Khaoua, H. Sarbazi-Azad",
+    "secondPart": "An analytical model of adaptive wormhole routing in hypercubes in the presence of hotspot traffic",
+    "thirdPart": "IEEE Transactions on Parallel and Distributed System, Vol. 12, No. 3, pp. 283-292, 2001"
+  },
+  {
+    "firstPart": "G. Min, H. Sarbazi-Azad, M. Ould-Khaoua",
+    "secondPart": "Performance analysis of k-ary n-cube networks with pipelined circuit switching",
+    "thirdPart": "International Journal of High-Speed Computing, Vol. 11, No. 2, pp. 111-127, 2000"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "Message latency in hypercubes in the presence of matrix-transpose traffic",
+    "thirdPart": "The Computer Journal, Vol. 43, No. 5, pp. 411-419, 2000"
+  },
+  {
+    "firstPart": "H. Sarbazi-Azad, M. Ould-Khaoua, L.M. Mackenzie",
+    "secondPart": "A parallel algorithm for Lagrange interpolation on the cube-connected cycles",
+    "thirdPart": "Microprocessors and Microsystems, Vol. 24, No. 3, pp. 135-140, 2000"
+  }
+]

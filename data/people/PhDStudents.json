@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Negar Akbarzadeh",
+    "imgSrc": "/avatars/2.jpg",
+    "linkedin": "",
+    "email": "n.akbarzadeh93@gmail.com"
+  },
+  {
+    "name": "Maedeh Safari",
+    "imgSrc": "/avatars/default.jpg",
+    "linkedin": "",
+    "email": "masafari@ce.sharif.edu"
+  },
+  {
+    "name": "Majid Ashraf Samani",
+    "imgSrc": "/avatars/3.jpg",
+    "linkedin": "https://www.linkedin.com/in/mashsam/",
+    "email": "majid.ashraf@sharif.edu"
+  },
+  {
+    "name": "Seyed Mahdi Ebrahimi",
+    "imgSrc": "/avatars/4.jpg",
+    "linkedin": "https://www.linkedin.com/in/seyed-mahdi-ebrahimi/",
+    "email": "smebrahimi@ce.sharif.ir"
+  },
+  {
+    "name": "Armin Ahmadzadeh",
+    "imgSrc": "/avatars/5.jpg",
+    "linkedin": "https://www.linkedin.com/in/armin-ahmadzadeh-7262172a/",
+    "email": "arminahmadzadeh@hotmail.com"
+  },
+  {
+    "name": "Atiyeh Gheibi-Fetrat",
+    "imgSrc": "/avatars/6.jpg",
+    "linkedin": "https://www.linkedin.com/in/atiyeh-gheibi-fetrat-39290a21b/",
+    "email": "atiye.gheibi@gmail.com"
+  },
+  {
+    "name": "Fatemeh Serajeh Hassani",
+    "imgSrc": "/avatars/7.jpg",
+    "linkedin": "https://www.linkedin.com/in/fatemeh-serajeh-hassani-90512675/",
+    "email": ""
+  }
+]
