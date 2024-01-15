@@ -9,13 +9,13 @@ export const metadata: Metadata = {
   description: "High Performance Computing Architectures and Networks",
 };
 
-export default function RootLayout({
-  children,
-}: {
+interface RootLayoutProps {
   children: React.ReactNode;
-}) {
+}
+
+export default function RootLayout({ children }: RootLayoutProps) {
   return (
-    <html lang="fa" dir="rtl">
+    <html lang="en-US">
       <body className={notoSerif.className}>{children}</body>
     </html>
   );
