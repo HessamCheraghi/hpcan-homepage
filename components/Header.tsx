@@ -13,10 +13,10 @@ const navigation = [
   { name: "Projects", href: "projects" },
 ];
 
-export default function LandingHeader() {
+export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
-    <>
+    <div className="px-6 lg:px-8 container mx-auto">
       <nav
         className="flex items-center justify-between pt-6"
         aria-label="Global"
@@ -37,7 +37,7 @@ export default function LandingHeader() {
         <div className="flex lg:hidden">
           <button
             type="button"
-            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-400"
+            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-800"
             onClick={() => setMobileMenuOpen(true)}
           >
             <span className="sr-only">Open main menu</span>
@@ -49,7 +49,7 @@ export default function LandingHeader() {
             <Link
               key={item.name}
               href={item.href}
-              className="text-sm font-semibold leading-6 text-white"
+              className="text-sm font-semibold leading-6 text-black"
             >
               {item.name}
             </Link>
@@ -58,7 +58,7 @@ export default function LandingHeader() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
-            className="text-sm font-semibold leading-6 text-white"
+            className="text-sm font-semibold leading-6 text-black"
             download
           >
             Download template
@@ -66,7 +66,7 @@ export default function LandingHeader() {
         </div>
       </nav>
       <Dialog as="div" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
-        <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-gray-900 px-6 py-6 lg:hidden">
+        <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-6 lg:hidden">
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">{heroData.title}</span>
@@ -80,7 +80,7 @@ export default function LandingHeader() {
             </Link>
             <button
               type="button"
-              className="-m-2.5 rounded-md p-2.5 text-gray-400"
+              className="-m-2.5 rounded-md p-2.5 text-gray-800"
               onClick={() => setMobileMenuOpen(false)}
             >
               <span className="sr-only">Close menu</span>
@@ -94,7 +94,7 @@ export default function LandingHeader() {
                   <Link
                     key={item.name}
                     href={item.href}
-                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-white hover:bg-gray-400/10"
+                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-black hover:bg-gray-400/10"
                   >
                     {item.name}
                   </Link>
@@ -103,7 +103,7 @@ export default function LandingHeader() {
               <div className="py-6">
                 <Link
                   href={heroData.template}
-                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-white hover:bg-gray-400/10"
+                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-black hover:bg-gray-400/10"
                   download
                 >
                   Download template
@@ -113,6 +113,6 @@ export default function LandingHeader() {
           </div>
         </Dialog.Panel>
       </Dialog>
-    </>
+    </div>
   );
 }

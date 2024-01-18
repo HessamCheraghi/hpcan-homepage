@@ -1,3 +1,9 @@
+import Header from "@/components/Header";
+
 export default function People() {
-  return <p className="text-justify text-5xl">People</p>;
+  return (
+    <div className="">
+      <Header />
+    </div>
+  );
 }

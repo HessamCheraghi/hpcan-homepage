@@ -1,9 +1,9 @@
+import Link from "next/link";
 import Image from "next/image";
-import { ChevronDownIcon } from "@heroicons/react/24/outline";
 import LandingHeader from "@/components/LandingHeader";
-import heroData from "@/data/home/hero.json";
+import heroData from "@/data/home.json";
 
-export default function Example() {
+export default function Hero() {
   return (
     <div className="relative isolate overflow-hidden bg-gray-900">
       <Image
@@ -25,16 +25,14 @@ export default function Example() {
             <p className="mt-6 text-lg leading-8 text-gray-300">
               {heroData.subtitle}
             </p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="#"
-                className="text-base font-semibold leading-7 text-white flex flex-col items-center"
+            <div className="mt-10">
+              <Link
+                href="about"
+                className="text-base font-semibold leading-7 text-white inline-flex gap-3"
               >
                 Learn more
-                <span aria-hidden="true">
-                  <ChevronDownIcon width={24} height={24} />
-                </span>
-              </a>
+                <span aria-hidden="true">→</span>
+              </Link>
             </div>
           </div>
         </div>

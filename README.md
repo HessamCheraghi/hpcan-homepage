@@ -2,10 +2,13 @@
 
 todo:
 
+- [x] configure the app for SSG only
 - [x] extract data from source to json
-- [ ] compress images
+- [x] create a hero
 - [ ] create a header
 - [ ] create a footer
-- [x] create a hero
-- [ ] create a students section
-- [x] configure the app for SSG only
+- [ ] create about page
+- [ ] create people page
+- [ ] create publications page
+- [ ] create projects page
+- [ ] compress images
