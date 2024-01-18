@@ -7,14 +7,14 @@ import {
   ArrowDownTrayIcon,
   Bars3Icon,
   XMarkIcon,
-} from "@heroicons/react/24/outline";
+} from "@heroicons/react/20/solid";
 import heroData from "@/data/home.json";
 
 const navigation = [
   { name: "About", href: "about" },
   { name: "People", href: "people" },
-  { name: "Publications", href: "publications" },
   { name: "Projects", href: "projects" },
+  { name: "Publications", href: "publications" },
 ];
 
 export default function LandingHeader() {

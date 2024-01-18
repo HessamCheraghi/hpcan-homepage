@@ -7,15 +7,15 @@ import {
   Bars3Icon,
   XMarkIcon,
   ArrowDownTrayIcon,
-} from "@heroicons/react/24/outline";
+} from "@heroicons/react/20/solid";
 import heroData from "@/data/home.json";
 import clsx from "clsx";
 
 const navigation = [
   { name: "About", href: "about" },
   { name: "People", href: "people" },
-  { name: "Publications", href: "publications" },
   { name: "Projects", href: "projects" },
+  { name: "Publications", href: "publications" },
 ] as const;
 
 export default function Header({

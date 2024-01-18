@@ -13,9 +13,9 @@ export default function About() {
           className="mt-1 text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl lg:text-4xl scroll-m-12"
           id="overview"
         >
-          Overview
+          About
         </h2>
-        <p className="pt-5 text-xl text-gray-500 text-justify">
+        <p className="pt-5 text-xl text-gray-500 md:text-justify">
           {aboutData.overview}
         </p>
       </div>
@@ -41,13 +41,13 @@ export default function About() {
             </div>
             <div className="mt-12 lg:col-span-3 lg:m-0 lg:pl-8">
               <div className="mx-auto max-w-md px-6 sm:max-w-2xl lg:max-w-none lg:px-0 lg:py-4">
-                <p className="mt-6 text-lg text-white text-justify">
+                <p className="mt-6 text-lg text-white md:text-justify">
                   {aboutData.description}
                 </p>
 
                 <Link
                   href={aboutData.CVLink}
-                  className="mt-6 text-lg text-sky-50 text-justify font-bold items-center inline-flex gap-2 hover:text-sky-200"
+                  className="mt-6 text-lg text-sky-50 font-bold items-center inline-flex gap-2 hover:text-sky-200"
                   target="_blank"
                   referrerPolicy="no-referrer"
                 >
