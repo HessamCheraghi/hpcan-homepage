@@ -17,7 +17,7 @@ export default function Hero() {
       <div className="absolute inset-0 -z-10 h-full w-full bg-slate-900/70" />
       <div className="px-6 lg:px-8 container mx-auto min-h-lvh">
         <LandingHeader />
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <main className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
               {heroData.title}
@@ -35,7 +35,7 @@ export default function Hero() {
               </Link>
             </div>
           </div>
-        </div>
+        </main>
       </div>
     </div>
   );

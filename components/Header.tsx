@@ -25,7 +25,7 @@ export default function Header({
 }) {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
-    <div className="px-6 lg:px-8 container mx-auto">
+    <header className="px-6 lg:px-8 container mx-auto">
       <nav
         className="flex items-center justify-between pt-6 pb-4"
         aria-label="Global"
@@ -126,6 +126,6 @@ export default function Header({
           </div>
         </Dialog.Panel>
       </Dialog>
-    </div>
+    </header>
   );
 }

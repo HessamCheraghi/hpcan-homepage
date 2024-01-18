@@ -20,7 +20,7 @@ const navigation = [
 export default function LandingHeader() {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
-    <>
+    <header>
       <nav
         className="flex items-center justify-between pt-6"
         aria-label="Global"
@@ -118,6 +118,6 @@ export default function LandingHeader() {
           </div>
         </Dialog.Panel>
       </Dialog>
-    </>
+    </header>
   );
 }

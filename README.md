@@ -1,14 +1,33 @@
 # hpcan-homepage
 
-todo:
+## how to run the project locally?
 
-- [x] configure the app for SSG only
-- [x] extract data from source to json
-- [x] create a hero
-- [x] create a header
-- [ ] create a footer
-- [x] create about page
-- [x] create people page
-- [x] create publications page
-- [x] create projects page
-- [ ] compress images
+```bash
+git clone https://github.com/HessamCheraghi/hpcan-homepage.git
+
+cd hpcan-homepage
+
+npm i
+
+npm run dev
+```
+
+## how to edit the text?
+
+navigate to `/data` directory and edit the json files. your changes will automatically convert to html.
+
+## how to build the project for production?
+
+First of all, turn all the json files into html using the command line:
+
+```bash
+git clone https://github.com/HessamCheraghi/hpcan-homepage.git
+
+cd hpcan-homepage
+
+npm i
+
+npm run build
+```
+
+then copy everything in `/out` directory and paste them in your host directory.
