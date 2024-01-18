@@ -27,7 +27,7 @@ export default function Header({
   return (
     <div className="px-6 lg:px-8 container mx-auto">
       <nav
-        className="flex items-center justify-between pt-6"
+        className="flex items-center justify-between pt-6 pb-4"
         aria-label="Global"
       >
         <div className="flex lg:flex-1">

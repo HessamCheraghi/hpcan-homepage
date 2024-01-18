@@ -8,7 +8,7 @@ export default function Projects() {
     <>
       <Header active="projects" />
       <div className="bg-white">
-        <div className="mx-auto max-w-7xl py-12 px-6 lg:px-8 lg:py-24">
+        <div className="mx-auto container py-12 px-6 lg:px-8 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
@@ -18,7 +18,7 @@ export default function Projects() {
             <div className="">
               <ol
                 role="list"
-                className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0"
+                className="space-y-12 sm:grid lg:grid-cols-4 md:grid-cols-2 2xl:grid-cols-5 sm:gap-12 sm:space-y-0"
               >
                 {researchAreaData.map((data, index) => (
                   <li key={data.title} className="">
@@ -68,17 +68,17 @@ export default function Projects() {
         </div>
       </div>
       <div className="bg-white">
-        <div className="mx-auto max-w-7xl py-12 px-6 lg:px-8 lg:py-24">
+        <div className="mx-auto container py-12 px-6 lg:px-8 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-                Open-Source Projects, Tools, Software:
+                Open-Source Projects, Tools and Software
               </h2>
             </div>
             <div className="">
               <ol
                 role="list"
-                className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0"
+                className="space-y-12 sm:grid md:grid-cols-2  sm:gap-12 sm:space-y-0"
               >
                 {openSourceData.map((data, index) => (
                   <li key={data.title} className="">
@@ -89,12 +89,12 @@ export default function Projects() {
                       <p className="text-sm text-slate-700">
                         {data.description}
                       </p>
-                      <div className="flex items-center justify-start gap-4">
+                      <div className="flex items-center justify-start gap-6">
                         {data.links.map((l) => (
                           <Link
                             key={l.label}
                             href={l.link}
-                            className="text-black hover:text-sky-600 inline-flex gap-2"
+                            className="text-black hover:text-sky-600 inline-flex gap-1"
                             target="_blank"
                             referrerPolicy="no-referrer"
                           >
