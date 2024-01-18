@@ -7,7 +7,7 @@ import Header from "@/components/Header";
 export default function About() {
   return (
     <>
-      <Header />
+      <Header active="about" />
       <div className="mx-auto container pt-24 px-6 lg:px-8">
         <h2
           className="mt-1 text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl lg:text-4xl scroll-m-12"

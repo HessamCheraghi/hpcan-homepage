@@ -3,17 +3,26 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Dialog } from "@headlessui/react";
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import {
+  Bars3Icon,
+  XMarkIcon,
+  ArrowDownTrayIcon,
+} from "@heroicons/react/24/outline";
 import heroData from "@/data/home.json";
+import clsx from "clsx";
 
 const navigation = [
   { name: "About", href: "about" },
   { name: "People", href: "people" },
   { name: "Publications", href: "publications" },
   { name: "Projects", href: "projects" },
-];
+] as const;
 
-export default function Header() {
+export default function Header({
+  active,
+}: {
+  active: (typeof navigation)[number]["href"];
+}) {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
     <div className="px-6 lg:px-8 container mx-auto">
@@ -49,7 +58,10 @@ export default function Header() {
             <Link
               key={item.name}
               href={item.href}
-              className="text-sm font-semibold leading-6 text-black"
+              className={clsx(
+                "text-sm font-semibold leading-6 text-black",
+                active === item.href ? "text-sky-600" : ""
+              )}
             >
               {item.name}
             </Link>
@@ -58,9 +70,10 @@ export default function Header() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
-            className="text-sm font-semibold leading-6 text-black"
+            className="text-sm font-semibold leading-6 text-black inline-flex gap-1"
             download
           >
+            <ArrowDownTrayIcon className="h-6 w-6" width={24} height={24} />
             Download template
           </Link>
         </div>

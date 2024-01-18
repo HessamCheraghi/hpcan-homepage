@@ -3,7 +3,11 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Dialog } from "@headlessui/react";
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import {
+  ArrowDownTrayIcon,
+  Bars3Icon,
+  XMarkIcon,
+} from "@heroicons/react/24/outline";
 import heroData from "@/data/home.json";
 
 const navigation = [
@@ -58,9 +62,10 @@ export default function LandingHeader() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
-            className="text-sm font-semibold leading-6 text-white"
+            className="text-sm font-semibold leading-6 text-white inline-flex gap-1"
             download
           >
+            <ArrowDownTrayIcon className="h-6 w-6" width={24} height={24} />
             Download template
           </Link>
         </div>

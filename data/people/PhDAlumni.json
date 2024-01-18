@@ -1,99 +1,21 @@
 [
   {
-    "name": "Saba Mostofi",
-    "title": "PhD candidate at Texas A&M University",
-    "email": "mostofi@ce.sharif.edu",
-    "linkedin": "https://www.linkedin.com/in/saba-mostofi-724b08170/"
+    "name": "Sina Darabi",
+    "title": "Postdoctoral Researcher at The Institute for Research in Fundamental Sciences (IPM)",
+    "email": "daraby@ce.sharif.ir",
+    "linkedin": "https://www.linkedin.com/in/sina-daraby-a7404584/"
   },
   {
-    "name": "Mohammad Bakhshalipour",
-    "title": "PhD candidate at CMU",
-    "email": "bakhshalipour@cmu.edu",
-    "linkedin": "https://www.linkedin.com/in/mohammad-bakhshalipour-b87a6016b/"
-  },
-  {
-    "name": "Ali Ansari",
-    "title": "Doctoral Research Assistant at EPFL",
-    "email": "aansaricesut@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ali-ansari-b04155151/overlay/contact-info/"
-  },
-  {
-    "name": "Aram Rostamnejad Khatir",
-    "title": "Researcher at QuTech",
-    "email": "aram_ns@yahoo.com",
-    "linkedin": "https://www.linkedin.com/in/aram-rostamnejad-khatir-82444075/"
-  },
-  {
-    "name": "Mohammadhasan Shafahi",
-    "title": "Senior Software Engineer at Oracle",
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/mortezahoseinzadeh/"
-  },
-  {
-    "name": "Rahil Barati",
-    "title": "Software Programmer at MindLab",
-    "email": "Rahil.barati@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/rahil-barati-8a069368/"
-  },
-  {
-    "name": "Sina Sharifi",
-    "title": "Hardware Engineer at HexoSys Group",
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/sina-sharifi-06171778/"
-  },
-  {
-    "name": "Hamed Abbasitabar",
-    "title": "",
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/hamed-abbasitabar-6593639b/"
-  },
-  {
-    "name": "Majid Jalili",
-    "title": "GPU Performance Analysis Engineer At Apple",
-    "email": "majid@utexas.edu",
-    "linkedin": "https://www.linkedin.com/in/majid-jalili-56155044/"
-  },
-  {
-    "name": "Fatemeh Golshan",
-    "title": "PhD candidate at University of Pittsburgh",
-    "email": "Golshan@ce.sharif.edu",
-    "linkedin": "https://www.linkedin.com/in/fatemeh-golshan-6a7b709b/"
-  },
-  {
-    "name": "Faraz Tahmasebi",
-    "title": "Researcher at The Institute for Research in Fundamental Sciences (IPM)",
-    "email": "faraz.tahmasebi20@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/faraz-tahmasebi-84804768/"
-  },
-  {
-    "name": "Fardin Dadashi",
-    "title": "",
-    "email": "fardin.dadashi.1995@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/fardin-dadashi-200832a9/"
-  },
-  {
-    "name": "Mohammadhasan Shafahi",
-    "title": "Oracle Database Administrator At Bank Maskan",
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/mohammad-hassan-shafahi-7b128a40/"
-  },
-  {
-    "name": "Morteza Hoseinzadeh",
-    "title": "",
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/mohammad-hassan-shafahi-7b128a40/"
-  },
-  {
-    "name": "Fatemeh Agha Ali Akbari",
-    "title": "",
-    "email": "",
+    "name": "Negin Sadat Nematollahi Zadeh Mahani",
+    "title": "Assistant Professor at Bahonar University",
+    "email": "negin.mahani@gmail.com",
     "linkedin": ""
   },
   {
-    "name": "Hazhir Bakhishi",
-    "title": "DevOps Engineer at Dolphin AI",
+    "name": "Mojtaba Tarihi (Jointly suppervised by Prof. Asadi)",
+    "title": "Chief Technology Officer at Graph Inc.",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/hazhir-bakhishi/"
+    "linkedin": "https://www.linkedin.com/in/mojtaba-tarihi-7211961b8/"
   },
   {
     "name": "Mohammad Sadrosadati",
@@ -102,80 +24,70 @@
     "linkedin": "https://www.linkedin.com/in/mohammad-sadrosadati-23928a40/"
   },
   {
-    "name": "Mohammad Reza Jokar",
-    "title": "Research Software Engineer at IBM",
+    "name": "Mahmood Naderan",
+    "title": "Postdoctoral Researcher at Ghent University",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/mohammad-reza-jokar-4462b4107/"
+    "linkedin": "https://www.linkedin.com/in/mahmoodnt/overlay/contact-info/"
   },
   {
-    "name": "Morteza Baradaran",
-    "title": "PhD candidate Student at University of Virginia",
+    "name": "Arash Tavakkol",
+    "title": "Software Architect at Zürich",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/morteza-baradaran-88991678/"
+    "linkedin": "https://www.linkedin.com/in/arashtavakkol/"
+  },
+
+  {
+    "name": "Mohamad Arjomand",
+    "title": "GPU Architect at Apple",
+    "email": "arjomand.m@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mohammad-arjomand-7a0801244/"
   },
   {
-    "name": "Behnaz Soltani",
-    "title": "PhD Candidate at Macquarie University",
-    "email": "behnazz.soltani@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/behnaz-soltani-394025226/"
+    "name": "Mehdi Modarresi",
+    "title": "Assistant Professor at Tehran University",
+    "email": "modarressi@ut.ac.ir",
+    "linkedin": "https://www.linkedin.com/in/mehdi-modarressi-9a914926/"
   },
   {
-    "name": "Mohammad Hossein Samavatian",
-    "title": "ML Research scientist at Meta",
+    "name": "Dara Rahmati",
+    "title": "Postdoctoral Researcher at The Institute for Research in Fundamental Sciences (IPM)",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/mohammad-h-samavatian/"
+    "linkedin": "https://www.linkedin.com/in/dara-rahmati-b628544b/"
   },
   {
-    "name": "Farid Samandi",
-    "title": "PhD Candidate at Stony Brook University",
+    "name": "Abbas Nayebi",
+    "title": "Software Engineer at Google",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/farid-samandi-6ab43071/"
+    "linkedin": "https://www.linkedin.com/in/abbas-nayebi-2a923051/"
   },
   {
-    "name": "Mohaddeseh Hoveida",
-    "title": "",
+    "name": "Mehdi Rezaei Mayahi (International Campus at Kish)",
+    "title": "Senior technical consulting at School of Computer Sciense",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/mohaddeseh-hoveida-b656895a/"
+    "linkedin": "https://www.linkedin.com/in/mehdi-rezaei-mayahi-44b86952/overlay/contact-info/"
   },
   {
-    "name": "Fatemeh Masroor",
-    "title": "",
+    "name": "Marjan Asadinia (International Campus at Kish)",
+    "title": "Assistant Professor at California Polytechnic State University",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/fatemeh-masroor-aa0b5a83/"
+    "linkedin": "https://www.linkedin.com/in/marjan-a/"
   },
+
   {
-    "name": "Ehsan Yousefzadeh",
-    "title": "",
-    "email": "",
-    "linkedin": ""
-  },
-  {
-    "name": "Faezeh Faghih",
-    "title": "",
-    "email": "",
-    "linkedin": ""
-  },
-  {
-    "name": "Javad Farzammehr",
+    "name": "Fatemeh Nasiri (Islamic Azad University)",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
-    "name": "Saied Rashidi",
-    "title": "",
+    "name": "Akram Reza (Islamic Azad University)",
+    "title": "Assistant Professor at Azad University",
     "email": "",
-    "linkedin": "https://www.linkedin.com/in/saeed-rashidi-b3114b75/"
+    "linkedin": "https://www.linkedin.com/in/akram-reza-38a68b1b9"
   },
   {
-    "name": "Mahta Mayahinia",
-    "title": "",
-    "email": "",
-    "linkedin": ""
-  },
-  {
-    "name": "Pouyan Mehrvarzi",
-    "title": "",
+    "name": "Reza Sabbaghi-Nadooshan (Islamic Azad University)",
+    "title": "Associate Professor at Islamic Azad University",
     "email": "",
     "linkedin": ""
   }
