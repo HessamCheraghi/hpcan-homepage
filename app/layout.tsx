@@ -1,8 +1,5 @@
 import type { Metadata } from "next";
-import { Noto_Serif } from "next/font/google";
 import "./globals.css";
-
-const notoSerif = Noto_Serif({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "HPCAN LAB",
@@ -16,7 +13,7 @@ interface RootLayoutProps {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en-US">
-      <body className={notoSerif.className}>{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
