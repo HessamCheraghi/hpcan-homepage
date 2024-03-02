@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function IconLinkedin(
-  props: React.ComponentPropsWithoutRef<"svg">
+  props: React.ComponentPropsWithoutRef<"svg">,
 ) {
   return (
     <svg

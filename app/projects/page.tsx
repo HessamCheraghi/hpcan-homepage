@@ -16,35 +16,35 @@ export default function Projects() {
       <Header active="projects" />
       <main>
         <section className="bg-white">
-          <div className="mx-auto container py-12 px-6 lg:px-8 lg:py-24">
+          <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
             <div className="space-y-12">
               <div className="space-y-5 sm:space-y-4">
-                <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
+                <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
                   Research Area
                 </h2>
               </div>
               <div className="">
                 <ol
                   role="list"
-                  className="space-y-12 sm:grid lg:grid-cols-4 md:grid-cols-2 2xl:grid-cols-5 sm:gap-12 sm:space-y-0"
+                  className="space-y-12 sm:grid sm:gap-12 sm:space-y-0 md:grid-cols-2 2xl:grid-cols-3"
                 >
                   {researchAreaData.map((data, index) => (
                     <li key={data.title} className="">
                       <div className="space-y-4 font-normal">
-                        <h3 className="font-bold leading-6 text-lg">
+                        <h3 className="text-base font-bold leading-6">
                           {index + 1}. {data.title || "unknown title"}
                         </h3>
                         {!!data.currentStudents &&
                         !!data.currentStudents.length ? (
                           <div className="space-y-1">
-                            <h4 className="font-bold text-sm">
+                            <h4 className="mb-1 text-base">
                               Current Students:
                             </h4>
                             <ul>
                               {data.currentStudents.map((st) => (
                                 <li
                                   key={st}
-                                  className="list-inside list-disc text-sm"
+                                  className="list-inside list-disc text-sm text-slate-700"
                                 >
                                   {st}
                                 </li>
@@ -54,12 +54,12 @@ export default function Projects() {
                         ) : null}
                         {!!data.alumni && !!data.alumni.length ? (
                           <div className="space-y-1">
-                            <h4 className="font-bold text-sm">Alumni:</h4>
+                            <h4 className="mb-1 text-base">Alumni:</h4>
                             <ul>
                               {data.alumni.map((st) => (
                                 <li
                                   key={st}
-                                  className="list-inside list-disc text-sm"
+                                  className="list-inside list-disc text-sm text-slate-700"
                                 >
                                   {st}
                                 </li>
@@ -76,22 +76,22 @@ export default function Projects() {
           </div>
         </section>
         <section className="bg-white">
-          <div className="mx-auto container py-12 px-6 lg:px-8 lg:py-24">
+          <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
             <div className="space-y-12">
               <div className="space-y-5 sm:space-y-4">
-                <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
+                <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
                   Open-Source Projects, Tools and Software
                 </h2>
               </div>
               <div className="">
                 <ol
                   role="list"
-                  className="space-y-12 sm:grid md:grid-cols-2  sm:gap-12 sm:space-y-0"
+                  className="space-y-12 sm:grid sm:gap-12  sm:space-y-0 md:grid-cols-2"
                 >
                   {openSourceData.map((data, index) => (
                     <li key={data.title} className="">
                       <div className="space-y-4 font-normal">
-                        <h3 className="font-bold leading-6 text-lg">
+                        <h3 className="text-base font-bold leading-6">
                           {index + 1}. {data.title || "unknown title"}
                         </h3>
                         <p className="text-sm text-slate-700">
@@ -102,14 +102,15 @@ export default function Projects() {
                             <Link
                               key={l.label}
                               href={l.link}
-                              className="text-black hover:text-sky-600 inline-flex gap-1"
+                              className="inline-flex gap-1 text-black hover:text-sky-600"
                               target="_blank"
                               referrerPolicy="no-referrer"
                             >
                               <span aria-hidden="true">
                                 <ArrowTopRightOnSquareIcon
-                                  width={24}
-                                  height={24}
+                                  className="h-5 w-5 flex-grow-0"
+                                  width={20}
+                                  height={20}
                                 />
                               </span>
                               {l.label}

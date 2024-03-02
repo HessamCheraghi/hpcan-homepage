@@ -62,7 +62,7 @@ export default function LandingHeader() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
-            className="text-sm font-semibold leading-6 text-white inline-flex gap-1"
+            className="inline-flex gap-1 text-sm font-semibold leading-6 text-white"
             download
           >
             <ArrowDownTrayIcon className="h-6 w-6" width={24} height={24} />
@@ -99,7 +99,7 @@ export default function LandingHeader() {
                   <Link
                     key={item.name}
                     href={item.href}
-                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-white hover:bg-gray-400/10"
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:bg-gray-400/10"
                   >
                     {item.name}
                   </Link>
@@ -108,7 +108,7 @@ export default function LandingHeader() {
               <div className="py-6">
                 <Link
                   href={heroData.template}
-                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-white hover:bg-gray-400/10"
+                  className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-6 text-white hover:bg-gray-400/10"
                   download
                 >
                   Download template

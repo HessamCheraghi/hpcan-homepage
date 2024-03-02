@@ -1,36 +1,42 @@
 [
   {
     "name": "Sina Darabi",
+    "imgSrc": "",
     "title": "Postdoctoral Researcher at The Institute for Research in Fundamental Sciences (IPM)",
     "email": "daraby@ce.sharif.ir",
     "linkedin": "https://www.linkedin.com/in/sina-daraby-a7404584/"
   },
   {
     "name": "Negin Sadat Nematollahi Zadeh Mahani",
+    "imgSrc": "",
     "title": "Assistant Professor at Bahonar University",
     "email": "negin.mahani@gmail.com",
     "linkedin": ""
   },
   {
     "name": "Mojtaba Tarihi (Jointly suppervised by Prof. Asadi)",
+    "imgSrc": "",
     "title": "Chief Technology Officer at Graph Inc.",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mojtaba-tarihi-7211961b8/"
   },
   {
     "name": "Mohammad Sadrosadati",
+    "imgSrc": "",
     "title": "Senior researcher at ETH Zürich",
     "email": "m.sadr89@gmail.com",
     "linkedin": "https://www.linkedin.com/in/mohammad-sadrosadati-23928a40/"
   },
   {
     "name": "Mahmood Naderan",
+    "imgSrc": "",
     "title": "Postdoctoral Researcher at Ghent University",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mahmoodnt/overlay/contact-info/"
   },
   {
     "name": "Arash Tavakkol",
+    "imgSrc": "",
     "title": "Software Architect at Zürich",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/arashtavakkol/"
@@ -38,36 +44,42 @@
 
   {
     "name": "Mohamad Arjomand",
+    "imgSrc": "",
     "title": "GPU Architect at Apple",
     "email": "arjomand.m@gmail.com",
     "linkedin": "https://www.linkedin.com/in/mohammad-arjomand-7a0801244/"
   },
   {
     "name": "Mehdi Modarresi",
+    "imgSrc": "",
     "title": "Assistant Professor at Tehran University",
     "email": "modarressi@ut.ac.ir",
     "linkedin": "https://www.linkedin.com/in/mehdi-modarressi-9a914926/"
   },
   {
     "name": "Dara Rahmati",
+    "imgSrc": "",
     "title": "Postdoctoral Researcher at The Institute for Research in Fundamental Sciences (IPM)",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/dara-rahmati-b628544b/"
   },
   {
     "name": "Abbas Nayebi",
+    "imgSrc": "",
     "title": "Software Engineer at Google",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/abbas-nayebi-2a923051/"
   },
   {
     "name": "Mehdi Rezaei Mayahi (International Campus at Kish)",
+    "imgSrc": "",
     "title": "Senior technical consulting at School of Computer Sciense",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mehdi-rezaei-mayahi-44b86952/overlay/contact-info/"
   },
   {
     "name": "Marjan Asadinia (International Campus at Kish)",
+    "imgSrc": "",
     "title": "Assistant Professor at California Polytechnic State University",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/marjan-a/"
@@ -75,18 +87,21 @@
 
   {
     "name": "Fatemeh Nasiri (Islamic Azad University)",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Akram Reza (Islamic Azad University)",
+    "imgSrc": "",
     "title": "Assistant Professor at Azad University",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/akram-reza-38a68b1b9"
   },
   {
     "name": "Reza Sabbaghi-Nadooshan (Islamic Azad University)",
+    "imgSrc": "",
     "title": "Associate Professor at Islamic Azad University",
     "email": "",
     "linkedin": ""

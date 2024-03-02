@@ -25,9 +25,9 @@ export default function Header({
 }) {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
-    <header className="px-6 lg:px-8 container mx-auto">
+    <header className="container mx-auto px-6 lg:px-8">
       <nav
-        className="flex items-center justify-between pt-6 pb-4"
+        className="flex items-center justify-between pb-4 pt-6"
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
@@ -60,7 +60,7 @@ export default function Header({
               href={item.href}
               className={clsx(
                 "text-sm font-semibold leading-6 text-black",
-                active === item.href ? "text-sky-600" : ""
+                active === item.href ? "text-sky-600" : "",
               )}
             >
               {item.name}
@@ -70,7 +70,7 @@ export default function Header({
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
-            className="text-sm font-semibold leading-6 text-black inline-flex gap-1"
+            className="inline-flex gap-1 text-sm font-semibold leading-6 text-black"
             download
           >
             <ArrowDownTrayIcon className="h-6 w-6" width={24} height={24} />
@@ -107,7 +107,7 @@ export default function Header({
                   <Link
                     key={item.name}
                     href={item.href}
-                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-black hover:bg-gray-400/10"
+                    className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-black hover:bg-gray-400/10"
                   >
                     {item.name}
                   </Link>
@@ -116,7 +116,7 @@ export default function Header({
               <div className="py-6">
                 <Link
                   href={heroData.template}
-                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-black hover:bg-gray-400/10"
+                  className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-6 text-black hover:bg-gray-400/10"
                   download
                 >
                   Download template

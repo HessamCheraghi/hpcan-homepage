@@ -1,174 +1,203 @@
 [
   {
     "name": "Saba Mostofi",
+    "imgSrc": "",
     "title": "PhD candidate at Texas A&M University",
     "email": "mostofi@ce.sharif.edu",
     "linkedin": "https://www.linkedin.com/in/saba-mostofi-724b08170/"
   },
   {
     "name": "Mohammad Bakhshalipour",
+    "imgSrc": "",
     "title": "PhD candidate at CMU",
     "email": "bakhshalipour@cmu.edu",
     "linkedin": "https://www.linkedin.com/in/mohammad-bakhshalipour-b87a6016b/"
   },
   {
     "name": "Ali Ansari",
+    "imgSrc": "",
     "title": "Doctoral Research Assistant at EPFL",
     "email": "aansaricesut@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ali-ansari-b04155151/overlay/contact-info/"
   },
   {
     "name": "Aram Rostamnejad Khatir",
+    "imgSrc": "",
     "title": "Researcher at QuTech",
     "email": "aram_ns@yahoo.com",
     "linkedin": "https://www.linkedin.com/in/aram-rostamnejad-khatir-82444075/"
   },
   {
     "name": "Morteza Hoseinzadeh",
+    "imgSrc": "",
     "title": "Senior Software Engineer at Oracle",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mortezahoseinzadeh/"
   },
   {
     "name": "Rahil Barati",
+    "imgSrc": "",
     "title": "Software Programmer at MindLab",
     "email": "Rahil.barati@gmail.com",
     "linkedin": "https://www.linkedin.com/in/rahil-barati-8a069368/"
   },
   {
     "name": "Sina Sharifi",
+    "imgSrc": "",
     "title": "Hardware Engineer at HexoSys Group",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/sina-sharifi-06171778/"
   },
   {
     "name": "Hamed Abbasitabar",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/hamed-abbasitabar-6593639b/"
   },
   {
     "name": "Majid Jalili",
+    "imgSrc": "",
     "title": "GPU Performance Analysis Engineer At Apple",
     "email": "majid@utexas.edu",
     "linkedin": "https://www.linkedin.com/in/majid-jalili-56155044/"
   },
   {
     "name": "Fatemeh Golshan",
+    "imgSrc": "",
     "title": "PhD candidate at University of Pittsburgh",
     "email": "Golshan@ce.sharif.edu",
     "linkedin": "https://www.linkedin.com/in/fatemeh-golshan-6a7b709b/"
   },
   {
     "name": "Faraz Tahmasebi",
+    "imgSrc": "",
     "title": "Researcher at The Institute for Research in Fundamental Sciences (IPM)",
     "email": "faraz.tahmasebi20@gmail.com",
     "linkedin": "https://www.linkedin.com/in/faraz-tahmasebi-84804768/"
   },
   {
     "name": "Fardin Dadashi",
+    "imgSrc": "",
     "title": "",
     "email": "fardin.dadashi.1995@gmail.com",
     "linkedin": "https://www.linkedin.com/in/fardin-dadashi-200832a9/"
   },
   {
     "name": "Mohammadhasan Shafahi",
+    "imgSrc": "",
     "title": "Oracle Database Administrator At Bank Maskan",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mohammad-hassan-shafahi-7b128a40/"
   },
   {
     "name": "Fatemeh Agha Ali Akbari",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Hazhir Bakhishi",
+    "imgSrc": "",
     "title": "DevOps Engineer at Dolphin AI",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/hazhir-bakhishi/"
   },
   {
     "name": "Mohammad Sadrosadati",
+    "imgSrc": "",
     "title": "Senior researcher at ETH Zürich",
     "email": "m.sadr89@gmail.com",
     "linkedin": "https://www.linkedin.com/in/mohammad-sadrosadati-23928a40/"
   },
   {
     "name": "Mohammad Reza Jokar",
+    "imgSrc": "",
     "title": "Research Software Engineer at IBM",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mohammad-reza-jokar-4462b4107/"
   },
   {
     "name": "Morteza Baradaran",
+    "imgSrc": "",
     "title": "PhD candidate Student at University of Virginia",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/morteza-baradaran-88991678/"
   },
   {
     "name": "Behnaz Soltani",
+    "imgSrc": "",
     "title": "PhD Candidate at Macquarie University",
     "email": "behnazz.soltani@gmail.com",
     "linkedin": "https://www.linkedin.com/in/behnaz-soltani-394025226/"
   },
   {
     "name": "Mohammad Hossein Samavatian",
+    "imgSrc": "",
     "title": "ML Research scientist at Meta",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mohammad-h-samavatian/"
   },
   {
     "name": "Farid Samandi",
+    "imgSrc": "",
     "title": "PhD Candidate at Stony Brook University",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/farid-samandi-6ab43071/"
   },
   {
     "name": "Mohaddeseh Hoveida",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/mohaddeseh-hoveida-b656895a/"
   },
   {
     "name": "Fatemeh Masroor",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/fatemeh-masroor-aa0b5a83/"
   },
   {
     "name": "Ehsan Yousefzadeh",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Faezeh Faghih",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Javad Farzammehr",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Saied Rashidi",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": "https://www.linkedin.com/in/saeed-rashidi-b3114b75/"
   },
   {
     "name": "Mahta Mayahinia",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
   },
   {
     "name": "Pouyan Mehrvarzi",
+    "imgSrc": "",
     "title": "",
     "email": "",
     "linkedin": ""
