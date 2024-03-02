@@ -14,13 +14,13 @@ export default function People() {
         people
       </div>
       <section className="bg-white">
-        <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
-          <div className="grid grid-cols-1 gap-12 lg:grid-cols-3 lg:gap-8">
+        <div className="container mx-auto px-6 pb-8 pt-4 lg:px-24 lg:pb-16 lg:pt-8">
+          <div className="grid grid-cols-1 gap-12 lg:grid-cols-4 lg:gap-8">
             <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
               PhD students
             </h2>
 
-            <div className="lg:col-span-2">
+            <div className="lg:col-span-3">
               <ul
                 role="list"
                 className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8"
@@ -75,13 +75,13 @@ export default function People() {
         </div>
       </section>
       <section className="bg-white">
-        <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
-          <div className="grid grid-cols-1 gap-12 lg:grid-cols-3 lg:gap-4">
+        <div className="container mx-auto px-6 pb-8 pt-4 lg:px-24 lg:pb-16 lg:pt-8">
+          <div className="grid grid-cols-1 gap-12 lg:grid-cols-4 lg:gap-4">
             <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
               MSc students:
             </h2>
 
-            <div className="lg:col-span-2">
+            <div className="lg:col-span-3">
               <ul
                 role="list"
                 className="space-y-12 sm:grid sm:grid-cols-2 sm:gap-12 sm:space-y-0 lg:gap-x-8"
@@ -136,7 +136,7 @@ export default function People() {
         </div>
       </section>
       <section className="bg-white">
-        <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
+        <div className="container mx-auto px-6 pb-8 pt-4 lg:px-24 lg:pb-16 lg:pt-8">
           <div className="space-y-12">
             <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
               PhD Alumni
@@ -195,7 +195,7 @@ export default function People() {
         </div>
       </section>
       <section className="bg-white">
-        <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
+        <div className="container mx-auto px-6 pb-8 pt-4 lg:px-24 lg:pb-16 lg:pt-8">
           <div className="space-y-12">
             <h2 className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl">
               MSc Alumni

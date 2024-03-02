@@ -24,7 +24,7 @@ export default function Hero() {
           </p>
           <div className="sm:mt-10">
             <Link
-              href="about"
+              href="#about"
               className="inline-flex gap-3 text-base font-semibold leading-7 text-white"
             >
               Learn more

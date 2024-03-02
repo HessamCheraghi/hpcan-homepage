@@ -49,24 +49,22 @@ function NavItem({
 
 function DesktopNavigation() {
   return (
-    <nav>
-      <ul className="hidden rounded-full bg-white/70 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur lg:flex">
-        {navigation.map((n) => (
-          <NavItem href={n.href} key={n.href}>
-            {n.name}
-          </NavItem>
-        ))}
-      </ul>
-    </nav>
+    <ul className="hidden rounded-full bg-white/70 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur lg:flex">
+      {navigation.map((n) => (
+        <NavItem href={n.href} key={n.href}>
+          {n.name}
+        </NavItem>
+      ))}
+    </ul>
   );
 }
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
-    <header className="container mx-auto px-6 lg:px-8">
+    <header className="container sticky top-0 z-50 mx-auto bg-white/70 px-6 backdrop-blur lg:px-8">
       <nav
-        className="flex items-center justify-between py-2 sm:py-6 "
+        className="flex items-center justify-between py-2 sm:py-4"
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
@@ -83,6 +81,7 @@ export default function Header() {
           </Link>
         </div>
         <DesktopNavigation />
+        <div className="block text-lg font-bold lg:hidden">HPCAN</div>
         <div className="flex lg:hidden">
           <button
             type="button"
@@ -106,7 +105,7 @@ export default function Header() {
         </div>
       </nav>
       <Dialog as="div" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
-        <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-6 lg:hidden">
+        <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-2 lg:hidden">
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">{heroData.title}</span>
@@ -118,6 +117,9 @@ export default function Header() {
                 height={48}
               />
             </Link>
+
+            <div className="block text-lg font-bold lg:hidden">HPCAN</div>
+
             <button
               type="button"
               className="-m-2.5 rounded-md p-2.5 text-gray-800"
