@@ -10,24 +10,63 @@ import {
 } from "@heroicons/react/20/solid";
 import heroData from "@/data/home.json";
 import clsx from "clsx";
+import { usePathname } from "next/navigation";
 
 const navigation = [
-  { name: "About", href: "about" },
-  { name: "People", href: "people" },
-  { name: "Projects", href: "projects" },
-  { name: "Publications", href: "publications" },
+  { name: "Home", href: "/" },
+  { name: "About", href: "/#about" },
+  { name: "People", href: "/#people" },
+  { name: "Projects", href: "/projects" },
+  { name: "Publications", href: "/publications" },
 ] as const;
 
-export default function Header({
-  active,
+function NavItem({
+  href,
+  children,
 }: {
-  active: (typeof navigation)[number]["href"];
+  href: string;
+  children: React.ReactNode;
 }) {
+  const isActive = usePathname() === href;
+
+  return (
+    <li>
+      <Link
+        href={href}
+        className={clsx(
+          "relative block px-3 py-2 transition",
+          isActive ? "text-sky-700" : "hover:text-sky-700",
+        )}
+      >
+        {children}
+        {isActive && (
+          <span className="absolute inset-x-1 -bottom-px h-px bg-gradient-to-r from-teal-500/0 via-sky-400/40 to-sky-500/0" />
+        )}
+      </Link>
+    </li>
+  );
+}
+
+function DesktopNavigation() {
+  return (
+    <nav>
+      <ul className="hidden rounded-full bg-white/70 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur lg:flex">
+        {navigation.map((n) => (
+          <NavItem href={n.href} key={n.href}>
+            {n.name}
+          </NavItem>
+        ))}
+      </ul>
+    </nav>
+  );
+}
+
+export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
   return (
     <header className="container mx-auto px-6 lg:px-8">
       <nav
-        className="flex items-center justify-between pb-4 pt-6"
+        className="flex items-center justify-between py-2 sm:py-6 "
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
@@ -43,6 +82,7 @@ export default function Header({
             />
           </Link>
         </div>
+        <DesktopNavigation />
         <div className="flex lg:hidden">
           <button
             type="button"
@@ -53,20 +93,7 @@ export default function Header({
             <Bars3Icon className="h-6 w-6" aria-hidden="true" />
           </button>
         </div>
-        <div className="hidden lg:flex lg:gap-x-12">
-          {navigation.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              className={clsx(
-                "text-sm font-semibold leading-6 text-black",
-                active === item.href ? "text-sky-600" : "",
-              )}
-            >
-              {item.name}
-            </Link>
-          ))}
-        </div>
+
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link
             href={heroData.template}
@@ -108,6 +135,7 @@ export default function Header({
                     key={item.name}
                     href={item.href}
                     className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-black hover:bg-gray-400/10"
+                    onClick={() => setMobileMenuOpen(false)}
                   >
                     {item.name}
                   </Link>

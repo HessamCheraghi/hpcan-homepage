@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -19,7 +21,11 @@ export default function RootLayout({ children }: RootLayoutProps) {
             <div className="w-full bg-white ring-1 ring-zinc-100" />
           </div>
         </div>
-        <div className="z-10 mx-auto max-w-7xl lg:px-8">{children}</div>
+        <div className="z-10 mx-auto max-w-7xl lg:px-8">
+          <Header />
+          <main>{children}</main>
+          <Footer />
+        </div>
       </body>
     </html>
   );
