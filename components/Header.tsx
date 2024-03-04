@@ -12,11 +12,11 @@ import clsx from "clsx";
 import React from "react";
 
 const navigation = [
-  { name: "Home", href: "/", hash: "top" },
-  { name: "About", href: "/", hash: "about" },
-  { name: "People", href: "/", hash: "people" },
-  { name: "Projects", href: "/projects", hash: "" },
-  { name: "Publications", href: "/publications", hash: "" },
+  { name: "Home", href: "/#top" },
+  { name: "About", href: "/#about" },
+  { name: "People", href: "/#people" },
+  { name: "Projects", href: "/projects" },
+  { name: "Publications", href: "/publications" },
 ] as const;
 
 function NavItem({
@@ -49,7 +49,7 @@ function DesktopNavigation() {
   return (
     <ul className="hidden rounded-full bg-white/70 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur lg:flex">
       {navigation.map((n) => (
-        <NavItem href={n.href + "#" + n.hash} key={n.name}>
+        <NavItem href={n.href} key={n.href}>
           {n.name}
         </NavItem>
       ))}
