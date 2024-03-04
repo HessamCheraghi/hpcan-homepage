@@ -4,7 +4,7 @@ import heroData from "@/data/home.json";
 
 export default function Hero() {
   return (
-    <div className="relative isolate bg-gray-900">
+    <section className="relative isolate bg-gray-900" id="top">
       <Image
         src="/images/header.jpg"
         alt={heroData.title}
@@ -33,6 +33,6 @@ export default function Hero() {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 }

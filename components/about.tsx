@@ -5,8 +5,8 @@ import aboutData from "@/data/about.json";
 
 export default function About() {
   return (
-    <>
-      <section className="container mx-auto px-6 pt-24 lg:px-24" id="about">
+    <section id="about">
+      <article className="container mx-auto px-6 pt-24 lg:px-24">
         <h2
           className="mt-1 scroll-m-12 font-bold tracking-tight text-gray-900 sm:text-xl lg:text-2xl"
           id="overview"
@@ -16,8 +16,8 @@ export default function About() {
         <p className="pt-5 text-gray-500 md:text-justify">
           {aboutData.overview}
         </p>
-      </section>
-      <section className="bg-white pt-16 lg:py-24">
+      </article>
+      <article className="bg-white pt-16 lg:py-24">
         <div className="bg-slate-600 pb-16 lg:relative lg:z-10 lg:pb-0">
           <div className="lg:mx-auto lg:grid lg:max-w-screen-2xl lg:grid-cols-3 lg:gap-4 lg:px-24">
             <div className="relative lg:-my-8">
@@ -58,7 +58,7 @@ export default function About() {
             </div>
           </div>
         </div>
-      </section>
-    </>
+      </article>
+    </section>
   );
 }

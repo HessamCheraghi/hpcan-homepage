@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Dialog } from "@headlessui/react";
@@ -10,14 +9,14 @@ import {
 } from "@heroicons/react/20/solid";
 import heroData from "@/data/home.json";
 import clsx from "clsx";
-import { usePathname } from "next/navigation";
+import React from "react";
 
 const navigation = [
-  { name: "Home", href: "/" },
-  { name: "About", href: "/#about" },
-  { name: "People", href: "/#people" },
-  { name: "Projects", href: "/projects" },
-  { name: "Publications", href: "/publications" },
+  { name: "Home", href: "/", hash: "top" },
+  { name: "About", href: "/", hash: "about" },
+  { name: "People", href: "/", hash: "people" },
+  { name: "Projects", href: "/projects", hash: "" },
+  { name: "Publications", href: "/publications", hash: "" },
 ] as const;
 
 function NavItem({
@@ -27,19 +26,18 @@ function NavItem({
   href: string;
   children: React.ReactNode;
 }) {
-  const isActive = usePathname() === href;
-
+  const isSamePage = false;
   return (
     <li>
       <Link
         href={href}
         className={clsx(
           "relative block px-3 py-2 transition",
-          isActive ? "text-sky-700" : "hover:text-sky-700",
+          isSamePage ? "text-sky-700" : "hover:text-sky-700",
         )}
       >
         {children}
-        {isActive && (
+        {isSamePage && (
           <span className="absolute inset-x-1 -bottom-px h-px bg-gradient-to-r from-teal-500/0 via-sky-400/40 to-sky-500/0" />
         )}
       </Link>
@@ -51,7 +49,7 @@ function DesktopNavigation() {
   return (
     <ul className="hidden rounded-full bg-white/70 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur lg:flex">
       {navigation.map((n) => (
-        <NavItem href={n.href} key={n.href}>
+        <NavItem href={n.href + "#" + n.hash} key={n.name}>
           {n.name}
         </NavItem>
       ))}
@@ -68,7 +66,7 @@ export default function Header() {
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
-          <Link href="/" className="-m-1.5 p-1.5">
+          <Link href="/#top" className="-m-1.5 p-1.5">
             <span className="sr-only">{heroData.title}</span>
             <Image
               className="h-12 w-12"
@@ -107,7 +105,7 @@ export default function Header() {
       <Dialog as="div" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
         <Dialog.Panel className="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-2 lg:hidden">
           <div className="flex items-center justify-between">
-            <Link href="/" className="-m-1.5 p-1.5">
+            <Link href="/#top" className="-m-1.5 p-1.5">
               <span className="sr-only">{heroData.title}</span>
               <Image
                 className="h-12 w-12"

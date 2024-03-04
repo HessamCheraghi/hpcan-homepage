@@ -11,8 +11,8 @@ export const metadata: Metadata = {
 
 export default function Publications() {
   return (
-    <>
-      <section className="bg-white">
+    <section id="publications">
+      <article className="bg-white">
         <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
@@ -36,8 +36,8 @@ export default function Publications() {
             </ul>
           </div>
         </div>
-      </section>
-      <section className="bg-white">
+      </article>
+      <article className="bg-white">
         <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
@@ -61,8 +61,8 @@ export default function Publications() {
             </ul>
           </div>
         </div>
-      </section>
-      <section className="bg-white">
+      </article>
+      <article className="bg-white">
         <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
@@ -88,8 +88,8 @@ export default function Publications() {
             </ul>
           </div>
         </div>
-      </section>
-      <section className="bg-white">
+      </article>
+      <article className="bg-white">
         <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
@@ -115,8 +115,8 @@ export default function Publications() {
             </ul>
           </div>
         </div>
-      </section>
-      <section className="bg-white">
+      </article>
+      <article className="bg-white">
         <div className="container mx-auto px-6 py-12 lg:px-24 lg:py-24">
           <div className="space-y-12">
             <div className="space-y-5 sm:space-y-4">
@@ -140,7 +140,7 @@ export default function Publications() {
             </ul>
           </div>
         </div>
-      </section>
-    </>
+      </article>
+    </section>
   );
 }
